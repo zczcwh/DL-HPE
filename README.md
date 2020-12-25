@@ -18,6 +18,16 @@
 This is the official repository of **Deep Learning-Based Human Pose Estimation:A Survey**, a comprehensive and systematic review of recent deep learning-based solutions for 2D and 3D human pose estimation(HPE). It also presents comparison results of different 2D and 3D HPE methods on several publicly available datasets. Additionally, more than 240 research papers since 2014 are covered and **we will update this page on a regular basis. Please feel free to contact <a href="czheng6@uncc.edu">Ce Zheng</a> or <a href="wwu25@uncc.edu"> Wenhan Wu</a> if you have any suggestions!**
 
 ## Introduction
+Human pose estimation aims to locate the human body parts and build human body representation (e.g., body skeleton) from
+input data such as images and videos. It has drawn increasing attention during the past decade and has been utilized in a wide range of
+applications including human-computer interaction, motion analysis, augmented reality, and virtual reality. Although the recently
+developed deep learning-based solutions have achieved high performance in human pose estimation, there still remain challenges due to
+insufficient training data, depth ambiguities, and occlusions. The goal of this survey paper is to provide a comprehensive review of recent
+deep learning-based solutions for both 2D and 3D pose estimation via a systematic analysis and comparison of these solutions based on
+their input data and inference procedures. More than 240 research papers since 2014 are covered in this survey. Furthermore, 2D and 3D
+human pose estimation datasets and evaluation metrics are included. Quantitative performance comparisons of the reviewed methods on
+popular datasets are summarized and discussed. Finally, the challenges involved, applications, and future research directions are
+concluded.
 
 ## 2D HPE datasets
 

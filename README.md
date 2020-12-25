@@ -2,7 +2,7 @@
 
 ## Deep Learning-Based Human Pose Estimation: A Survey  [[Paper](https://arxiv.org/abs/2012.13392)]
 
-## Author 
+## Authors 
 
 [Ce Zheng<sup>∗</sup>](https://zczcwh.github.io/), 
 [Wenhan Wu<sup>∗</sup>](https://sites.google.com/view/wenhanwu/%E9%A6%96%E9%A1%B5), 

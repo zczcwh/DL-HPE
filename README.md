@@ -29,9 +29,20 @@ human pose estimation datasets and evaluation metrics are included. Quantitative
 popular datasets are summarized and discussed. Finally, the challenges involved, applications, and future research directions are
 concluded.
 
+### Taxonomy
+<p align="center"> <img src="./taxonomy.png" width="105%"> </p>
+
 ## 2D HPE datasets
+<p align="center"> <img src="./2D datasets.png" width="70%"> </p>
 
 ## 2D HPE results
+<p align="center"> <img src="./2D LSP datasets.png" width="85%"> </p>
+
+<p align="center"> <img src="./2D MPII dataset.png" width="85%"> </p>
+
+<p align="center"> <img src="./2D MPII dataset2.png" width="85%"> </p>
+
+<p align="center"> <img src="./2D COCO dataset.png" width="85%"> </p>
 
 ## 3D HPE datasets
 

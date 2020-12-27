@@ -78,26 +78,60 @@ Key frame proposal network for efficient pose estimation in videos (ECCV2020) [[
 ### -multi-person 2D HPE
 Simple baselines for human poseestimation and tracking (ECCV2018) [[paper](https://arxiv.org/pdf/1804.06208.pdf)][[code](https://github.com/Microsoft/human-pose-estimation.pytorch)]
 
-123 () [[paper]()]
+Towards accurate multi-person poseestimation in the wild (CVPR2017) [[paper](https://arxiv.org/pdf/1701.01779.pdf)]
 
-123 () [[paper]()]
+A coarse-fine network for keypoint localization (ICCV2017) [[paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Huang_A_Coarse-Fine_Network_ICCV_2017_paper.pdf)]
 
-123 () [[paper]()]
+Deep high-resolution representation learning for human pose estimation(CVPR2019) [[paper](https://github.com/leoxiaobin/deep-high-resolution-net.pytorch)]
 
-123 () [[paper]()]
+Rethinking on multi-stage networks for human pose estimation (arVix) [[paper](https://arxiv.org/pdf/1901.00148.pdf)][[code](https://github.com/megvii-detection/MSPN)]
 
-123 () [[paper]()]
+Posefix: Model-agnostic general human pose refinement network (CVPR2019) [[paper](https://arxiv.org/pdf/1812.03595.pdf)][[code](https://github.com/mks0601/PoseFix_RELEASE)]
 
-123 () [[paper]()]
+Graph-pcnn: Two stage human pose estimation with graph pose refinement (arXiv) [[paper](https://arxiv.org/pdf/2007.10599.pdf)]
 
-123 () [[paper]()]
+The devil is in the details: Delving into unbiased data processing for human poseestimation (CVPR2020) [[paper](https://arxiv.org/pdf/1911.07524.pdf)]
 
-123 () [[paper]()]
+Learning delicate local representations for multi-person pose estimation (arXiv) [[paper](https://arxiv.org/pdf/2003.04030.pdf)][[code](https://github.com/caiyuanhao1998/RSN)]
 
-123 () [[paper]()]
+Distribution-aware coordinate representation for human pose estimation (CVPR2020) [[paper](https://arxiv.org/pdf/1910.06278.pdf)]
 
-123 () [[paper]()]
+Multi-person pose estimation with localjoint-to-person associations(ECCV2016) [[paper](https://arxiv.org/pdf/1608.08526.pdf)]
 
-123 () [[paper]()]
+Rmpe: Regional multi-person pose estimation (ICCV2017) [[paper](https://arxiv.org/pdf/1612.00137.pdf)][[code](https://github.com/MVIG-SJTU/AlphaPose)]
 
+Cascaded pyramid network for multi-person pose estimation (CVPR2018) [[paper](https://arxiv.org/pdf/1711.07319.pdf)][[code](https://github.com/chenyilun95/tf-cpn)]
 
+Multi-person pose estimation with enhanced channel-wise and spatial information (CVPR2019) [[paper](https://arxiv.org/pdf/1905.03466.pdf)]
+
+Peeking into occluded joints: A novel framework for crowd pose estimation (arXiv) [[paper](https://arxiv.org/pdf/2003.10506.pdf)]
+
+Self-supervised keypoint correspondences for multi-person pose estimation and tracking in videos (arXiv) [[paper](https://arxiv.org/pdf/2004.12652.pdf)]
+
+Deepcut: Joint subset partition and labeling for multi person pose estimation (CVPR2016) [[paper](https://arxiv.org/pdf/1511.06645.pdf)]
+
+Deepercut: A deeper, stronger, and faster multi-person pose estimation mode (ECCV2016) [[paper](https://arxiv.org/pdf/1605.03170.pdf)]
+
+Arttrack: Articulated multi-person tracking in the wild (CVPR2017) [[paper](https://arxiv.org/pdf/1612.01465.pdf)]
+
+Associative embedding: End-to-end learning for joint detection and grouping (Advances inNeural Information Processing Systems 2017) [[paper](https://arxiv.org/pdf/1611.05424.pdf)]
+
+Learning to refine human pose estimation (CVPR Workshops 2018) [[paper](https://arxiv.org/pdf/1804.07909.pdf)]
+
+Directpose: Direct end-to-end multi-person pose estimation (arXiv) [[paper](https://arxiv.org/pdf/1911.07451.pdf)]
+
+Pifpaf: Composite fields for human pose estimation (CVPR2019) [[paper](https://arxiv.org/pdf/1903.06593.pdf)][[cdoe](https://github.com/vita-epfl/openpifpaf)]
+
+Single-stage multi-personpose machines (ICCV2019) [[paper](https://arxiv.org/pdf/1908.09220.pdf)]
+
+Differentiable hierarchical graph grouping for multi-person poseestimation (arXiv) [[paper](https://arxiv.org/pdf/2007.11864.pdf)]
+
+Higherhrnet: Scale-aware representation learning for bottom-up human pose estimation (arXiv) [[paper](https://arxiv.org/pdf/1908.10357.pdf)]
+
+Multi-person pose estimation for posetrack with enhanced part affinity fields (ICCV 2017) [[paper](https://posetrack.net/workshops/iccv2017/pdfs/ML_Lab.pdf)]
+
+Personlab: Person pose estimation and instance segmentation with a bottom-up, part-based, geometric embeddingmode (ECCV2018) [[paper](https://arxiv.org/pdf/1803.08225.pdf)]
+
+Multiposenet: Fast multi-person pose estimation using pose residual network (ECCV2018) [[paper](https://arxiv.org/pdf/1807.04067.pdf)]
+
+Realtime multi-person2d pose estimation using part affinity fields (CVPR2017) [[paper](https://arxiv.org/pdf/1611.08050.pdf)][[code](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)]

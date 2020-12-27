@@ -1,6 +1,6 @@
 # 2D HPE paper list
 ## 2D HPE from monocular RGB images and videos
-### -single-person 2D HPE
+### - Single-person 2D HPE
 Deeppose: Human pose estimationvia deep neural networks (CVPR2014) [[Paper](https://arxiv.org/pdf/1312.4659.pdf)]
 
 Articulated pose estimation by a graphical model with image dependent pairwise relations (NIPS2014) [[Paper](https://papers.nips.cc/paper/2014/file/8b6dd7db9af49e67306feb59a8bdc52c-Paper.pdf)]
@@ -75,7 +75,7 @@ Flowing convnets for human pose estimation in videos (ICCV2015) [[paper](https:/
 
 Key frame proposal network for efficient pose estimation in videos (ECCV2020) [[paper](https://arxiv.org/pdf/2007.15217.pdf)][[code](https://github.com/Yuexiaoxi10/Key-Frame-Proposal-Network-for-Efficient-Pose-Estimation-in-Videos)]
 
-### -multi-person 2D HPE
+### * Multi-person 2D HPE
 Simple baselines for human poseestimation and tracking (ECCV2018) [[paper](https://arxiv.org/pdf/1804.06208.pdf)][[code](https://github.com/Microsoft/human-pose-estimation.pytorch)]
 
 Towards accurate multi-person poseestimation in the wild (CVPR2017) [[paper](https://arxiv.org/pdf/1701.01779.pdf)]

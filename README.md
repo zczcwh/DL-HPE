@@ -55,3 +55,4 @@ If you find our work useful in your research, please consider citing:
      }
 
 ## Updates
+* 27/12/2020: Initial release.

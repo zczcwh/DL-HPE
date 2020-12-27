@@ -15,7 +15,7 @@
 [Mubarak Shah](https://www.crcv.ucf.edu/person/mubarak-shah/).
 
 ## Overview
-This is the official repository of **Deep Learning-Based Human Pose Estimation:A Survey**, a comprehensive and systematic review of recent deep learning-based solutions for 2D and 3D human pose estimation(HPE). It also presents comparison results of different 2D and 3D HPE methods on several publicly available datasets. Additionally, more than 240 research papers since 2014 are covered and **we will update this page on a regular basis. Please feel free to contact [czheng6@uncc.edu](czheng6@uncc.edu) or [wwu25@uncc.edu](wwu25@uncc.edu) if you have any suggestions!**
+This is the official repository of **Deep Learning-Based Human Pose Estimation:A Survey**, a comprehensive and systematic review of recent deep learning-based solutions for 2D and 3D human pose estimation(HPE). It also presents comparison results of different 2D and 3D HPE methods on several publicly available datasets. Additionally, more than 240 research papers since 2014 are covered and **we will update this page on a regular basis. Please feel free to contact czheng6@uncc.edu or wwu25@uncc.edu if you have any suggestions!**
 
 ## Introduction
 Human pose estimation aims to locate the human body parts and build human body representation (e.g., body skeleton) from

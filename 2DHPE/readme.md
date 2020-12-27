@@ -75,7 +75,7 @@ Flowing convnets for human pose estimation in videos (ICCV2015) [[paper](https:/
 
 Key frame proposal network for efficient pose estimation in videos (ECCV2020) [[paper](https://arxiv.org/pdf/2007.15217.pdf)][[code](https://github.com/Yuexiaoxi10/Key-Frame-Proposal-Network-for-Efficient-Pose-Estimation-in-Videos)]
 
-### * Multi-person 2D HPE
+### - Multi-person 2D HPE
 Simple baselines for human poseestimation and tracking (ECCV2018) [[paper](https://arxiv.org/pdf/1804.06208.pdf)][[code](https://github.com/Microsoft/human-pose-estimation.pytorch)]
 
 Towards accurate multi-person poseestimation in the wild (CVPR2017) [[paper](https://arxiv.org/pdf/1701.01779.pdf)]

@@ -75,6 +75,8 @@ Flowing convnets for human pose estimation in videos (ICCV2015) [[paper](https:/
 
 Key frame proposal network for efficient pose estimation in videos (ECCV2020) [[paper](https://arxiv.org/pdf/2007.15217.pdf)][[code](https://github.com/Yuexiaoxi10/Key-Frame-Proposal-Network-for-Efficient-Pose-Estimation-in-Videos)]
 
+UniPose: Unified Human Pose Estimation in Single Images and Videos (CVPR2020)[[paper](https://arxiv.org/pdf/2001.08095.pdf)]
+
 ### - Multi-person 2D HPE
 Simple baselines for human poseestimation and tracking (ECCV2018) [[paper](https://arxiv.org/pdf/1804.06208.pdf)][[code](https://github.com/Microsoft/human-pose-estimation.pytorch)]
 
@@ -135,3 +137,15 @@ Personlab: Person pose estimation and instance segmentation with a bottom-up, pa
 Multiposenet: Fast multi-person pose estimation using pose residual network (ECCV2018) [[paper](https://arxiv.org/pdf/1807.04067.pdf)]
 
 Realtime multi-person2d pose estimation using part affinity fields (CVPR2017) [[paper](https://arxiv.org/pdf/1611.08050.pdf)][[code](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)]
+
+Combining detection and tracking for human pose estimation in videos (CVPR2020) [[paper](https://arxiv.org/pdf/2003.13743.pdf)]
+
+Distribution-Aware Coordinate Representation for Human Pose Estimation (CVPR2020) [[paper](https://arxiv.org/pdf/1910.06278.pdf)]
+
+Graph-PCNN: Two Stage Human Pose Estimation with Graph Pose Refinement (ECCV2020) [[paper](https://arxiv.org/pdf/2007.10599.pdf)]
+
+Occlusion-Aware Siamese Network for Human Pose Estimation (ECCV2020) [[paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650392.pdf)]
+
+Peeking into occluded joints: A novel framework for crowd pose estimation (ECCV2020) [[paper](https://arxiv.org/pdf/2003.10506.pdf)]
+
+Whole-Body Human Pose Estimation in the Wild (ECCV2020) [[paper](https://arxiv.org/pdf/2007.11858.pdf)]

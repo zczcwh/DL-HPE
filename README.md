@@ -1,6 +1,6 @@
 # Deep Learning-Based Human Pose Estimation: A Survey
 
-## Deep Learning-Based Human Pose Estimation: A Survey  [[Paper](https://arxiv.org/abs/2012.13392)]
+## Deep Learning-Based Human Pose Estimation: A Survey  [[Paper](https://arxiv.org/pdf/2012.13392.pdf)]
 
 ## Authors 
 

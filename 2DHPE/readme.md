@@ -158,3 +158,4 @@ Simple Pose: Rethinking and Improving a Bottom-up Approach for Multi-Person Pose
 
 Simple and Lightweight Human Pose Estimation (arXiv) [[paper](https://arxiv.org/pdf/1911.10346.pdf)][[code](https://github.com/zhang943/lpn-pytorch)]
 
+Single-Network Whole-Body Pose Estimation (ICCV2019) [[paper](https://arxiv.org/pdf/1909.13423.pdf)][[code](https://github.com/CMU-Perceptual-Computing-Lab/openpose_train)]

@@ -140,6 +140,8 @@ Multiposenet: Fast multi-person pose estimation using pose residual network (ECC
 
 Realtime multi-person2d pose estimation using part affinity fields (CVPR2017) [[paper](https://arxiv.org/pdf/1611.08050.pdf)][[code](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)]
 
+Real-time 2D Multi-Person Pose Estimation on CPU: Lightweight OpenPose (arXiv) [[paper](https://arxiv.org/pdf/1811.12004.pdf)]
+
 Combining detection and tracking for human pose estimation in videos (CVPR2020) [[paper](https://arxiv.org/pdf/2003.13743.pdf)]
 
 Distribution-Aware Coordinate Representation for Human Pose Estimation (CVPR2020) [[paper](https://arxiv.org/pdf/1910.06278.pdf)]
@@ -159,3 +161,9 @@ Simple Pose: Rethinking and Improving a Bottom-up Approach for Multi-Person Pose
 Simple and Lightweight Human Pose Estimation (arXiv) [[paper](https://arxiv.org/pdf/1911.10346.pdf)][[code](https://github.com/zhang943/lpn-pytorch)]
 
 Single-Network Whole-Body Pose Estimation (ICCV2019) [[paper](https://arxiv.org/pdf/1909.13423.pdf)][[code](https://github.com/CMU-Perceptual-Computing-Lab/openpose_train)]
+
+Pose Neural Fabrics Search (arXiv) [[paper](https://arxiv.org/pdf/1909.07068.pdf)][[code](https://github.com/yangsenius/PoseNFS)]
+
+Learning to Train with Synthetic Humans (arXiv)[[paper](https://arxiv.org/pdf/1908.00967.pdf)][[code](https://github.com/DavHoffmann/LearningToTrainWithSyntheticHumans)]
+
+

@@ -1,6 +1,6 @@
 # 3D HPE paper list
 ## 3D HPE from monocular RGB images and videos
-### -Single-view single-person 3D HPE
+### - Single-view single-person 3D HPE
 3D Human Pose Estimation from Monocular Images with Deep Convolutional Neural Network (ACCV 2014) [[Paper](http://visal.cs.cityu.edu.hk/static/pubs/conf/accv14-3dposecnn.pdf)]
 
 Maximum-Margin Structured Learning with Deep Networks for 3D Human Pose Estimation (ICCV 2015) [[Paper](http://visal.cs.cityu.edu.hk/static/pubs/conf/iccv15-scnn.pdf)]
@@ -155,7 +155,7 @@ BLSM: A Bone-Level Skinned Model of the Human Mesh (ECCV 2020) [[Paper](https://
 Orientation Keypoints for 6D Human Pose Estimation (arxiv 2020) [[Paper](https://arxiv.org/pdf/2009.04930v1.pdf)] 
 
 
-### -Single-view multi-person 3D HPE
+### - Single-view multi-person 3D HPE
 
 LCR-Net: Localization-Classification-Regression for Human Pose (CVPR 2017) [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Rogez_LCR-Net_Localization-Classification-Regression_for_CVPR_2017_paper.pdf)] 
 
@@ -185,7 +185,7 @@ SMAP: Single-Shot Multi-Person Absolute 3D Pose Estimation (ECCV 2020) [[Paper](
 
 XNect: Real-time Multi-Person 3D Motion Capture with a Single RGB Camera (ACM T. Graphics) [[Paper](https://arxiv.org/pdf/1907.00837v2.pdf)] [[code](https://github.com/mehtadushy/SelecSLS-Pytorch)]
 
-### -Multi-view 3D HPE
+### - Multi-view 3D HPE
 
 Harvesting Multiple Views for Marker-less 3D Human Pose Annotations (CVPR 2017) [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Pavlakos_Harvesting_Multiple_Views_CVPR_2017_paper.pdf)] 
 
@@ -241,7 +241,7 @@ Skeleton-Aware 3D Human Shape Reconstruction From Point Clouds (ICCV 2019) [[Pap
 
 Sequential 3D Human Pose and Shape Estimation From Point Clouds (CVPR 2020) [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Sequential_3D_Human_Pose_and_Shape_Estimation_From_Point_Clouds_CVPR_2020_paper.pdf)]
 
-Sparse Inertial Poser: Automatic 3D Human Pose Estimation from Sparse IMUs (Computer Graphics Forum 2017) [[Paper]https://arxiv.org/pdf/1703.08014.pdf)] 
+Sparse Inertial Poser: Automatic 3D Human Pose Estimation from Sparse IMUs (Computer Graphics Forum 2017) [[Paper](https://arxiv.org/pdf/1703.08014.pdf)] 
 
 Recovering Accurate 3D Human Pose in The Wild Using IMUs and a Moving Camera (ECCV 2018) [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Timo_von_Marcard_Recovering_Accurate_3D_ECCV_2018_paper.pdf)]
 

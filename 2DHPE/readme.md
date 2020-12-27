@@ -73,6 +73,8 @@ Modeep:  Adeep learning framework using motion features for human pose estimatio
 
 Flowing convnets for human pose estimation in videos (ICCV2015) [[paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Pfister_Flowing_ConvNets_for_ICCV_2015_paper.pdf)]
 
+TRB: A Novel Triplet Representation for Understanding 2D Human Body (ICCV2019) [[paper](https://arxiv.org/pdf/1910.11535.pdf)]
+
 Key frame proposal network for efficient pose estimation in videos (ECCV2020) [[paper](https://arxiv.org/pdf/2007.15217.pdf)][[code](https://github.com/Yuexiaoxi10/Key-Frame-Proposal-Network-for-Efficient-Pose-Estimation-in-Videos)]
 
 UniPose: Unified Human Pose Estimation in Single Images and Videos (CVPR2020)[[paper](https://arxiv.org/pdf/2001.08095.pdf)]
@@ -137,8 +139,6 @@ Personlab: Person pose estimation and instance segmentation with a bottom-up, pa
 Multiposenet: Fast multi-person pose estimation using pose residual network (ECCV2018) [[paper](https://arxiv.org/pdf/1807.04067.pdf)]
 
 Realtime multi-person2d pose estimation using part affinity fields (CVPR2017) [[paper](https://arxiv.org/pdf/1611.08050.pdf)][[code](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)]
-
-TRB: A Novel Triplet Representation for Understanding 2D Human Body (ICCV2019) [[paper](https://arxiv.org/pdf/1910.11535.pdf)]
 
 Combining detection and tracking for human pose estimation in videos (CVPR2020) [[paper](https://arxiv.org/pdf/2003.13743.pdf)]
 

@@ -149,3 +149,7 @@ Occlusion-Aware Siamese Network for Human Pose Estimation (ECCV2020) [[paper](ht
 Peeking into occluded joints: A novel framework for crowd pose estimation (ECCV2020) [[paper](https://arxiv.org/pdf/2003.10506.pdf)]
 
 Whole-Body Human Pose Estimation in the Wild (ECCV2020) [[paper](https://arxiv.org/pdf/2007.11858.pdf)]
+
+Simple Pose: Rethinking and Improving a Bottom-up Approach for Multi-Person Pose Estimation (AAAI2020) [[paper](https://arxiv.org/pdf/1911.10529.pdf)][[code](https://github.com/hellojialee/Improved-Body-Parts)]
+
+15 Keypoints Is All You Need (CVPR2020) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Snower_15_Keypoints_Is_All_You_Need_CVPR_2020_paper.pdf)]

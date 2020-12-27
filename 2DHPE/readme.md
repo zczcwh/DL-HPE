@@ -138,6 +138,8 @@ Multiposenet: Fast multi-person pose estimation using pose residual network (ECC
 
 Realtime multi-person2d pose estimation using part affinity fields (CVPR2017) [[paper](https://arxiv.org/pdf/1611.08050.pdf)][[code](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)]
 
+TRB: A Novel Triplet Representation for Understanding 2D Human Body (ICCV2019) [[paper](https://arxiv.org/pdf/1910.11535.pdf)]
+
 Combining detection and tracking for human pose estimation in videos (CVPR2020) [[paper](https://arxiv.org/pdf/2003.13743.pdf)]
 
 Distribution-Aware Coordinate Representation for Human Pose Estimation (CVPR2020) [[paper](https://arxiv.org/pdf/1910.06278.pdf)]
@@ -155,3 +157,4 @@ Simple Pose: Rethinking and Improving a Bottom-up Approach for Multi-Person Pose
 15 Keypoints Is All You Need (CVPR2020) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Snower_15_Keypoints_Is_All_You_Need_CVPR_2020_paper.pdf)]
 
 Simple and Lightweight Human Pose Estimation (arXiv) [[paper](https://arxiv.org/pdf/1911.10346.pdf)][[code](https://github.com/zhang943/lpn-pytorch)]
+

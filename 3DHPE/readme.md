@@ -187,31 +187,63 @@ XNect: Real-time Multi-Person 3D Motion Capture with a Single RGB Camera (ACM T.
 
 ### -Multi-view 3D HPE
 
-3D Human Pose Estimation = 2D Pose Estimation + Matching (CVPR 2017) [[Paper](https://arxiv.org/pdf/1612.06524.pdf)] [[code](https://github.com/flyawaychase/3DHumanPose)]
+Harvesting Multiple Views for Marker-less 3D Human Pose Annotations (CVPR 2017) [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Pavlakos_Harvesting_Multiple_Views_CVPR_2017_paper.pdf] 
 
-3D Human Pose Estimation = 2D Pose Estimation + Matching (CVPR 2017) [[Paper](https://arxiv.org/pdf/1612.06524.pdf)] [[code](https://github.com/flyawaychase/3DHumanPose)]
+Cross View Fusion for 3D Human Pose Estimation (ICCV 2017) [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Qiu_Cross_View_Fusion_for_3D_Human_Pose_Estimation_ICCV_2019_paper.pdf)] [[code](https://github.com/microsoft/multiview-human-pose-estimation-pytorch)]
 
-3D Human Pose Estimation = 2D Pose Estimation + Matching (CVPR 2017) [[Paper](https://arxiv.org/pdf/1612.06524.pdf)] [[code](https://github.com/flyawaychase/3DHumanPose)]
+Shape-Aware Human Pose and Shape Reconstruction Using Multi-View Images (ICCV 2019) [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Liang_Shape-Aware_Human_Pose_and_Shape_Reconstruction_Using_Multi-View_Images_ICCV_2019_paper.pdf)] 
 
-3D Human Pose Estimation = 2D Pose Estimation + Matching (CVPR 2017) [[Paper](https://arxiv.org/pdf/1612.06524.pdf)] [[code](https://github.com/flyawaychase/3DHumanPose)]
+Fast and Robust Multi-Person 3D Pose Estimation from Multiple Views (CVPR 2019) [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Dong_Fast_and_Robust_Multi-Person_3D_Pose_Estimation_From_Multiple_Views_CVPR_2019_paper.pdf)] [[code](https://github.com/zju3dv/mvpose)]
 
-3D Human Pose Estimation = 2D Pose Estimation + Matching (CVPR 2017) [[Paper](https://arxiv.org/pdf/1612.06524.pdf)] [[code](https://github.com/flyawaychase/3DHumanPose)]
+VoxelPose: Towards Multi-Camera 3D Human Pose Estimation in Wild Environment (ECCV 2020) [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460188.pdf)] [[code](https://github.com/microsoft/voxelpose-pytorch)]
 
-3D Human Pose Estimation = 2D Pose Estimation + Matching (CVPR 2017) [[Paper](https://arxiv.org/pdf/1612.06524.pdf)] [[code](https://github.com/flyawaychase/3DHumanPose)]
+Learning Monocular 3D Human Pose Estimation from Multi-view Images (CVPR 2018) [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Rhodin_Learning_Monocular_3D_CVPR_2018_paper.pdf)] 
 
-3D Human Pose Estimation = 2D Pose Estimation + Matching (CVPR 2017) [[Paper](https://arxiv.org/pdf/1612.06524.pdf)] [[code](https://github.com/flyawaychase/3DHumanPose)]
+Unsupervised Geometry-Aware Representation for 3D Human Pose Estimation (ECCV 2018) [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Helge_Rhodin_Unsupervised_Geometry-Aware_Representation_ECCV_2018_paper.pdf)] [[code](https://github.com/hrhodin/UnsupervisedGeometryAwareRepresentationLearning)]
 
-3D Human Pose Estimation = 2D Pose Estimation + Matching (CVPR 2017) [[Paper](https://arxiv.org/pdf/1612.06524.pdf)] [[code](https://github.com/flyawaychase/3DHumanPose)]
+Weakly-Supervised Discovery of Geometry-Aware Representation for 3D Human Pose Estimation (CVPR 2019) [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Weakly-Supervised_Discovery_of_Geometry-Aware_Representation_for_3D_Human_Pose_Estimation_CVPR_2019_paper.pdf)] 
 
-3D Human Pose Estimation = 2D Pose Estimation + Matching (CVPR 2017) [[Paper](https://arxiv.org/pdf/1612.06524.pdf)] [[code](https://github.com/flyawaychase/3DHumanPose)]
+Multi-person 3D Pose Estimation in Crowded Scenes Based on Multi-View Geometry (ECCV 2020) [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480545.pdf)] [[code](https://github.com/HeCraneChen/3D-Crowd-Pose-Estimation-Based-on-MVG)]
 
-3D Human Pose Estimation = 2D Pose Estimation + Matching (CVPR 2017) [[Paper](https://arxiv.org/pdf/1612.06524.pdf)] [[code](https://github.com/flyawaychase/3DHumanPose)]
+Multiview-Consistent Semi-Supervised Learning for 3D Human Pose Estimation (CVPR 2020) [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Mitra_Multiview-Consistent_Semi-Supervised_Learning_for_3D_Human_Pose_Estimation_CVPR_2020_paper.pdf)]
 
-3D Human Pose Estimation = 2D Pose Estimation + Matching (CVPR 2017) [[Paper](https://arxiv.org/pdf/1612.06524.pdf)] [[code](https://github.com/flyawaychase/3DHumanPose)]
+Weakly-Supervised 3D Human Pose Learning via Multi-view Images in the Wild (CVPR 2020) [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Iqbal_Weakly-Supervised_3D_Human_Pose_Learning_via_Multi-View_Images_in_the_CVPR_2020_paper.pdf)] 
 
-3D Human Pose Estimation = 2D Pose Estimation + Matching (CVPR 2017) [[Paper](https://arxiv.org/pdf/1612.06524.pdf)] [[code](https://github.com/flyawaychase/3DHumanPose)]
+End-to-end Dynamic Matching Network for Multi-view Multi-person 3d Pose Estimation (ECCV 2020) [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730477.pdf)] 
+
+AdaFuse: Adaptive Multiview Fusion for Accurate Human Pose Estimation in the Wild (IJCV 2020) [[Paper](https://arxiv.org/pdf/2010.13302v1.pdf)] [[code](https://github.com/zhezh/adafuse-3d-human-pose)]
+
+DeepCap: Monocular Human Performance Capture Using Weak Supervision (CVPR 2020) [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Habermann_DeepCap_Monocular_Human_Performance_Capture_Using_Weak_Supervision_CVPR_2020_paper.pdf)]
+
+A generalizable approach for multi-view 3D human pose regression (arxiv 2018) [[Paper](https://arxiv.org/pdf/1804.10462v2.pdf)] [[code](https://github.com/AimAlex/Multi-view-3D-Human-Pose)]
+
+Self-Supervised Learning of 3D Human Pose using Multi-view Geometry (CVPR 2019) [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kocabas_Self-Supervised_Learning_of_3D_Human_Pose_Using_Multi-View_Geometry_CVPR_2019_paper.pdf)] [[code](https://github.com/mkocabas/EpipolarPose)]
+
+Domes to Drones: Self-Supervised Active Triangulation for 3D Human Pose Reconstruction (NeurIPS 2019) [[Paper](https://proceedings.neurips.cc/paper/2019/file/c3e4035af2a1cde9f21e1ae1951ac80b-Paper.pdf)] [[code](https://github.com/ErikGartner/actor)]
+
+Cross-View Tracking for Multi-Human 3D Pose Estimation at over 100 FPS (CVPR 2020) [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Cross-View_Tracking_for_Multi-Human_3D_Pose_Estimation_at_Over_100_CVPR_2020_paper.pdf)] [[code](https://github.com/longcw/crossview_3d_pose_tracking)]
+
+Lightweight Multi-View 3D Pose Estimation through Camera-Disentangled Representation (CVPR 2020) [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Remelli_Lightweight_Multi-View_3D_Pose_Estimation_Through_Camera-Disentangled_Representation_CVPR_2020_paper.pdf)] 
+
+MetaFuse: A Pre-trained Fusion Model for Human Pose Estimation (CVPR 2020) [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xie_MetaFuse_A_Pre-trained_Fusion_Model_for_Human_Pose_Estimation_CVPR_2020_paper.pdf)]
 
 ## 3D HPE from other sources 
+
+3D Human Pose Estimation = 2D Pose Estimation + Matching (CVPR 2017) [[Paper](https://arxiv.org/pdf/1612.06524.pdf)] [[code](https://github.com/flyawaychase/3DHumanPose)]
+
+3D Human Pose Estimation = 2D Pose Estimation + Matching (CVPR 2017) [[Paper](https://arxiv.org/pdf/1612.06524.pdf)] [[code](https://github.com/flyawaychase/3DHumanPose)]
+
+3D Human Pose Estimation = 2D Pose Estimation + Matching (CVPR 2017) [[Paper](https://arxiv.org/pdf/1612.06524.pdf)] [[code](https://github.com/flyawaychase/3DHumanPose)]
+
+3D Human Pose Estimation = 2D Pose Estimation + Matching (CVPR 2017) [[Paper](https://arxiv.org/pdf/1612.06524.pdf)] [[code](https://github.com/flyawaychase/3DHumanPose)]
+
+3D Human Pose Estimation = 2D Pose Estimation + Matching (CVPR 2017) [[Paper](https://arxiv.org/pdf/1612.06524.pdf)] [[code](https://github.com/flyawaychase/3DHumanPose)]
+
+3D Human Pose Estimation = 2D Pose Estimation + Matching (CVPR 2017) [[Paper](https://arxiv.org/pdf/1612.06524.pdf)] [[code](https://github.com/flyawaychase/3DHumanPose)]
+
+3D Human Pose Estimation = 2D Pose Estimation + Matching (CVPR 2017) [[Paper](https://arxiv.org/pdf/1612.06524.pdf)] [[code](https://github.com/flyawaychase/3DHumanPose)]
+
+3D Human Pose Estimation = 2D Pose Estimation + Matching (CVPR 2017) [[Paper](https://arxiv.org/pdf/1612.06524.pdf)] [[code](https://github.com/flyawaychase/3DHumanPose)]
 
 3D Human Pose Estimation = 2D Pose Estimation + Matching (CVPR 2017) [[Paper](https://arxiv.org/pdf/1612.06524.pdf)] [[code](https://github.com/flyawaychase/3DHumanPose)]
 

@@ -89,6 +89,3 @@
 | 2020 | Differentiable hierarchical graph grouping for multi-person poseestimation (arXiv) [[paper](https://arxiv.org/pdf/2007.11864.pdf)]   | no         | Hourglass        | 512×512    | 67.6                     | 85.1                     | 73.7                     | 62.7                     | 74.6                     |
 | 2020 | Higherhrnet: Scale-aware representation learning for bottom-up human pose estimation (arXiv) [[paper](https://arxiv.org/pdf/1908.10357.pdf)]    | no         | HRNet-W48        | 640×640    | 70.5                     | 89.3                     | 77.2                     | 66.6                     | 75.8                     |
 
-
-
-

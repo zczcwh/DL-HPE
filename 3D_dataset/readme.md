@@ -20,6 +20,8 @@
 # 3D HPE results on polupar datasets
 <p align="center"> <img src="https://github.com/zczcwh/DL-HPE/blob/main/figure/3d-single-person.png" width="105%"> </p>
 
+|115  |CVPR 2017  | [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Pavlakos_Coarse-To-Fine_Volumetric_Prediction_CVPR_2017_paper.pdf)]  |  |116  |CVPR 2018  |[[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Pavlakos_Ordinal_Depth_Supervision_CVPR_2018_paper.pdf)]   |
+
 <p align="center"> <img src="https://github.com/zczcwh/DL-HPE/blob/main/figure/3d-multi-person.png" width="100%"> </p>
 
 <p align="center"> <img src="https://github.com/zczcwh/DL-HPE/blob/main/figure/3d-multi-view.png" width="60%"> </p>

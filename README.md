@@ -35,11 +35,11 @@ concluded.
 
 ##  [2D HPE paper list](https://github.com/zczcwh/DL-HPE/tree/main/2DHPE)
 
-##  [2D HPE datasets](https://github.com/zczcwh/DL-HPE/tree/main/2D_dataset)
+##  [2D HPE datasets and performance comparison](https://github.com/zczcwh/DL-HPE/tree/main/2D_dataset)
 
 ##  [3D HPE paper list](https://github.com/zczcwh/DL-HPE/tree/main/3DHPE)
 
-##  [3D HPE datasets](https://github.com/zczcwh/DL-HPE/tree/main/3D_dataset)
+##  [3D HPE datasets and performance comparison](https://github.com/zczcwh/DL-HPE/tree/main/3D_dataset)
 
 
 ## Citation

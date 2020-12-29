@@ -19,7 +19,7 @@ Human pose regression by combining indirect part detection and contextual inform
 
 Numerical coordinate regression with convolutional neural networks (arXiv) [[paper](https://arxiv.org/pdf/1801.07372.pdf)]
 
-Heterogeneous multi-tasklearning for human pose estimation with deep convolutionalneural network (CVPR2014 Workshops) [[paper](https://arxiv.org/pdf/1406.3474.pdf)]
+Heterogeneous multi-task learning for human pose estimation with deep convolutionalneural network (CVPR2014 Workshops) [[paper](https://arxiv.org/pdf/1406.3474.pdf)]
 
 Combining local appear-ance and holistic view: Dual-source deep neural networks for human pose estimation (CVPR2015) [[paper](https://arxiv.org/pdf/1504.07159.pdf)]
 
@@ -98,7 +98,7 @@ Learning delicate local representations for multi-person pose estimation (arXiv)
 
 Distribution-aware coordinate representation for human pose estimation (CVPR2020) [[paper](https://arxiv.org/pdf/1910.06278.pdf)]
 
-Multi-person pose estimation with localjoint-to-person associations(ECCV2016) [[paper](https://arxiv.org/pdf/1608.08526.pdf)]
+Multi-person pose estimation with local joint-to-person associations(ECCV2016) [[paper](https://arxiv.org/pdf/1608.08526.pdf)]
 
 Rmpe: Regional multi-person pose estimation (ICCV2017) [[paper](https://arxiv.org/pdf/1612.00137.pdf)][[code](https://github.com/MVIG-SJTU/AlphaPose)]
 
@@ -136,7 +136,7 @@ Personlab: Person pose estimation and instance segmentation with a bottom-up, pa
 
 Multiposenet: Fast multi-person pose estimation using pose residual network (ECCV2018) [[paper](https://arxiv.org/pdf/1807.04067.pdf)]
 
-Realtime multi-person2d pose estimation using part affinity fields (CVPR2017) [[paper](https://arxiv.org/pdf/1611.08050.pdf)][[code](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)]
+Realtime multi-person 2d pose estimation using part affinity fields (CVPR2017) [[paper](https://arxiv.org/pdf/1611.08050.pdf)][[code](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)]
 
 Real-time 2D Multi-Person Pose Estimation on CPU: Lightweight OpenPose (arXiv) [[paper](https://arxiv.org/pdf/1811.12004.pdf)]
 

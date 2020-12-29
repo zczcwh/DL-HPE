@@ -49,13 +49,9 @@ Adapting mobilenets for mobile based upper body pose estimation (AVSS2018) [[pap
 
 Human pose estimation with spatial contextual information (arXiv) [[paper](https://arxiv.org/pdf/1901.01760.pdf)]
 
-Unipose: Unified human pose estimation in single images and videos (CVPR2020) [[paper](https://arxiv.org/pdf/2001.08095.pdf)]
+Adversarial posenet: A structure-aware convolutional network for human pose estimation (ICCV 2017) [[paper](https://arxiv.org/pdf/1705.00389.pdf)]
 
-Multi-context attention for human pose estimation (CVPR2017) [[paper](https://arxiv.org/pdf/1702.07432.pdf)]
-
-Adversarialposenet: A structure-aware convolutional network for human pose estimation (ICCV 2017) [[paper](https://arxiv.org/pdf/1705.00389.pdf)]
-
-Self adversarial trainingfor human pose estimation(Asia-Pacific Signal and InformationProcessing Association Annual Summit and Conference2018) [[paper](https://arxiv.org/pdf/1707.02439.pdf)]
+Self adversarial training for human pose estimation(Asia-Pacific Signal and InformationProcessing Association Annual Summit and Conference2018) [[paper](https://arxiv.org/pdf/1707.02439.pdf)]
 
 Jointly optimize data augmentation and network training: Adversarial data augmentation in human pose estimation (CVPR2018) [[paper](https://arxiv.org/pdf/1805.09707.pdf)]
 
@@ -81,6 +77,8 @@ UniPose: Unified Human Pose Estimation in Single Images and Videos (CVPR2020)[[p
 
 ### - Multi-person 2D HPE
 Simple baselines for human poseestimation and tracking (ECCV2018) [[paper](https://arxiv.org/pdf/1804.06208.pdf)][[code](https://github.com/Microsoft/human-pose-estimation.pytorch)]
+
+LCR-Net: Localization-Classification-Regression for Human Pose (CVPR2017) [[paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Rogez_LCR-Net_Localization-Classification-Regression_for_CVPR_2017_paper.pdf)] 
 
 Towards accurate multi-person poseestimation in the wild (CVPR2017) [[paper](https://arxiv.org/pdf/1701.01779.pdf)]
 

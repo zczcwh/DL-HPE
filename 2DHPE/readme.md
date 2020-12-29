@@ -15,7 +15,7 @@ Human pose estimation with iterative error feedback (CVPR2016) [[paper](https://
 
 Compositional humanpose regression (ICCV2017) [[paper](https://arxiv.org/pdf/1704.00159.pdf)]
 
-Human pose regressionby combining indirect part detection and contextual information (Computers & Graphics 2019) [[paper](https://arxiv.org/pdf/1710.02322.pdf)]
+Human pose regression by combining indirect part detection and contextual information (Computers & Graphics 2019) [[paper](https://arxiv.org/pdf/1710.02322.pdf)]
 
 Numerical coordinate regression with convolutional neural networks (arXiv) [[paper](https://arxiv.org/pdf/1801.07372.pdf)]
 

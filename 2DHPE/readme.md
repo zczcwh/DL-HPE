@@ -138,6 +138,8 @@ Multiposenet: Fast multi-person pose estimation using pose residual network (ECC
 
 Realtime multi-person 2d pose estimation using part affinity fields (CVPR2017) [[paper](https://arxiv.org/pdf/1611.08050.pdf)][[code](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)]
 
+CrowdPose: Efficient Crowded Scenes Pose Estimation and A New Benchmark(CVPR2019) [[paper](https://arxiv.org/pdf/1812.00324.pdf)]
+
 Real-time 2D Multi-Person Pose Estimation on CPU: Lightweight OpenPose (arXiv) [[paper](https://arxiv.org/pdf/1811.12004.pdf)]
 
 Combining detection and tracking for human pose estimation in videos (CVPR2020) [[paper](https://arxiv.org/pdf/2003.13743.pdf)]

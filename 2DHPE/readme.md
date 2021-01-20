@@ -167,3 +167,5 @@ Pose Neural Fabrics Search (arXiv) [[paper](https://arxiv.org/pdf/1909.07068.pdf
 Learning to Train with Synthetic Humans (arXiv)[[paper](https://arxiv.org/pdf/1908.00967.pdf)][[code](https://github.com/DavHoffmann/LearningToTrainWithSyntheticHumans)]
 
 High-speed multi-person pose estimation with deep feature transfer (CVIU2020)[[paper](https://www.sciencedirect.com/science/article/pii/S1077314218302261)]
+
+EfficientHRNet: Efficient Scaling for Lightweight High-Resolution Multi-Person Pose Estimation (arXiv)[[paper](https://arxiv.org/abs/2007.08090)]

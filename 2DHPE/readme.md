@@ -168,4 +168,4 @@ Learning to Train with Synthetic Humans (arXiv)[[paper](https://arxiv.org/pdf/19
 
 High-speed multi-person pose estimation with deep feature transfer (CVIU2020)[[paper](https://www.sciencedirect.com/science/article/pii/S1077314218302261)]
 
-EfficientHRNet: Efficient Scaling for Lightweight High-Resolution Multi-Person Pose Estimation (arXiv)[[paper](https://arxiv.org/abs/2007.08090)]
+EfficientHRNet: Efficient Scaling for Lightweight High-Resolution Multi-Person Pose Estimation (arXiv)[[paper](https://arxiv.org/abs/2007.08090)][[code](https://github.com/TeCSAR-UNCC/EfficientHRNet)]

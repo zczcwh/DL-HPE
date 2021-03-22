@@ -154,6 +154,8 @@ BLSM: A Bone-Level Skinned Model of the Human Mesh (ECCV 2020) [[Paper](https://
 
 Orientation Keypoints for 6D Human Pose Estimation (arxiv 2020) [[Paper](https://arxiv.org/pdf/2009.04930v1.pdf)] 
 
+3D Human Pose Estimation with Spatial and Temporal Transformers (arxiv 2021) [[Paper](https://arxiv.org/pdf/2103.10455.pdf)] [[code](https://github.com/zczcwh/PoseFormer)]
+
 
 ### - Single-view multi-person 3D HPE
 

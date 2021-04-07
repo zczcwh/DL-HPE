@@ -243,6 +243,8 @@ Skeleton-Aware 3D Human Shape Reconstruction From Point Clouds (ICCV 2019) [[Pap
 
 Sequential 3D Human Pose and Shape Estimation From Point Clouds (CVPR 2020) [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Sequential_3D_Human_Pose_and_Shape_Estimation_From_Point_Clouds_CVPR_2020_paper.pdf)]
 
+Human Pose Estimation from Video and IMUs (TPAMI 2016) [[Paper](https://virtualhumans.mpi-inf.mpg.de/papers/vonmarcardponsmollPAMI16/vonmarcardponsmollPAMI16.pdf)] 
+
 Sparse Inertial Poser: Automatic 3D Human Pose Estimation from Sparse IMUs (Computer Graphics Forum 2017) [[Paper](https://arxiv.org/pdf/1703.08014.pdf)] 
 
 Recovering Accurate 3D Human Pose in The Wild Using IMUs and a Moving Camera (ECCV 2018) [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Timo_von_Marcard_Recovering_Accurate_3D_ECCV_2018_paper.pdf)]
@@ -250,6 +252,8 @@ Recovering Accurate 3D Human Pose in The Wild Using IMUs and a Moving Camera (EC
 Deep Inertial Poser: Learning to Reconstruct Human Pose from Sparse Inertial Measurements in Real Time (ACM Transactions on Graphics) [[Paper](https://arxiv.org/pdf/1810.04703v1.pdf)] 
 
 Fusing Wearable IMUs with Multi-View Images for Human Pose Estimation: A Geometric Approach (CVPR 2020) [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Fusing_Wearable_IMUs_With_Multi-View_Images_for_Human_Pose_Estimation_CVPR_2020_paper.pdf)] [[code](https://github.com/CHUNYUWANG/imu-human-pose-pytorch)]
+
+Eventcap: Monocular 3d capture of high-speed human motions using an event camera (CVPR 2020) [[Paper](https://gvv.mpi-inf.mpg.de/projects/2020-cvpr-eventcap/)] 
 
 DeepFuse: An IMU-Aware Network for Real-Time 3D Human Pose Estimation from Multi-View Image (WACV 2020) [[Paper](https://arxiv.org/pdf/1912.04071v1.pdf)] 
 
@@ -261,7 +265,13 @@ Through-Wall Human Mesh Recovery Using Radio Signals (ICCV 2019) [[Paper](https:
 
 Optical Non-Line-of-Sight Physics-based 3D Human Pose Estimation (CVPR 2020) [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Isogawa_Optical_Non-Line-of-Sight_Physics-Based_3D_Human_Pose_Estimation_CVPR_2020_paper.pdf)] [[code](https://github.com/marikoisogawa/OpticalNLOSPose)]
 
+Egocap: egocentric marker-less motion capture with two fisheye cameras (SIGGRAPH Asia 2016) [[Paper](https://gvv.mpi-inf.mpg.de/projects/EgoCap/)]
+
+Mo 2 cap 2: Real-time mobile 3d motion capture with a cap-mounted fisheye camera (IEEE TVCG Proc. VR 2019) [[Paper](http://gvv.mpi-inf.mpg.de/projects/wxu/Mo2Cap2/)]
+
 xR-EgoPose: Egocentric 3D Human Pose from an HMD Camera (ICCV 2019) [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Tome_xR-EgoPose_Egocentric_3D_Human_Pose_From_an_HMD_Camera_ICCV_2019_paper.pdf)]
+
+SelfPose: 3D Egocentric Pose Estimation from a Headset Mounted Camera (arXiv 2020) [[Paper](https://arxiv.org/pdf/2011.01519.pdf)]
 
 Markerless Outdoor Human Motion Capture Using Multiple Autonomous Micro Aerial Vehicles (ICCV 2019) [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Saini_Markerless_Outdoor_Human_Motion_Capture_Using_Multiple_Autonomous_Micro_Aerial_ICCV_2019_paper.pdf)] 
 

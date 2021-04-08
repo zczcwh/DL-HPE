@@ -75,6 +75,9 @@ Key frame proposal network for efficient pose estimation in videos (ECCV2020) [[
 
 UniPose: Unified Human Pose Estimation in Single Images and Videos (CVPR2020)[[paper](https://arxiv.org/pdf/2001.08095.pdf)]
 
+TFPose: Direct Human Pose Estimation with Transformers (arXiv)[[paper](https://arxiv.org/abs/2103.15320)][[code](https://github.com/aim-uofa/AdelaiDet/)]
+
+
 ### - Multi-person 2D HPE
 Simple baselines for human poseestimation and tracking (ECCV2018) [[paper](https://arxiv.org/pdf/1804.06208.pdf)][[code](https://github.com/Microsoft/human-pose-estimation.pytorch)]
 
@@ -169,3 +172,7 @@ Learning to Train with Synthetic Humans (arXiv)[[paper](https://arxiv.org/pdf/19
 High-speed multi-person pose estimation with deep feature transfer (CVIU2020)[[paper](https://www.sciencedirect.com/science/article/pii/S1077314218302261)]
 
 EfficientHRNet: Efficient Scaling for Lightweight High-Resolution Multi-Person Pose Estimation (arXiv)[[paper](https://arxiv.org/abs/2007.08090)][[code](https://github.com/TeCSAR-UNCC/EfficientHRNet)]
+
+Bottom-Up Human Pose Estimation Via Disentangled Keypoint Regression (CVPR2021)[[paper](https://arxiv.org/pdf/2104.02300.pdf)][[code](https://github.com/HRNet/DEKR)]
+
+Rethinking the Heatmap Regression for Bottom-up Human Pose Estimation (CVPR2021)[[paper](https://arxiv.org/pdf/2012.15175.pdf)][[code](https://github.com/greatlog/SWAHR-HumanPose)]

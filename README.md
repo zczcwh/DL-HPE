@@ -46,6 +46,7 @@ concluded.
 
 ##  [3D HPE datasets and performance comparison](https://github.com/zczcwh/DL-HPE/tree/main/3D_dataset)
 
+##  [HPE Applications](https://github.com/zczcwh/DL-HPE/tree/main/Applications)
 
 ## Citation
 If you find our work useful in your research, please consider citing:

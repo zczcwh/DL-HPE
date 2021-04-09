@@ -21,6 +21,12 @@ AI Coach: Deep Human Pose Estimation and Analysis for Personalized Athletic Trai
 
 SimulCap : Single-View Human Performance Capture with Cloth Simulation (CVPR 2019) [[Paper](https://arxiv.org/pdf/1903.06323.pdf)]
 
+360-Degree Textures of People in Clothing from a Single Image (3DV 2019) [[Paper](https://arxiv.org/abs/1908.07117)]
+
+Multi-Garment Net: Learning to Dress 3D People from Images (ICCV 2019) [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Bhatnagar_Multi-Garment_Net_Learning_to_Dress_3D_People_From_Images_ICCV_2019_paper.pdf)]
+
+Tex2Shape: Detailed Full Human Body Geometry From a Single Image (ICCV 2019) [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Alldieck_Tex2Shape_Detailed_Full_Human_Body_Geometry_From_a_Single_Image_ICCV_2019_paper.pdf)]
+
 PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization (ICCV 2019) [[Paper](https://arxiv.org/pdf/1905.05172.pdf)]
 
 PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization (CVPR 2020) [[Paper](https://shunsukesaito.github.io/PIFuHD/)]
@@ -28,6 +34,8 @@ PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human
 Dense Intrinsic Appearance Flow for Human Pose Transfer (CVPR 2019) [[Paper](https://arxiv.org/abs/1903.11326)]
 
 TailorNet: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style (CVPR 2020) [[Paper](http://virtualhumans.mpi-inf.mpg.de/tailornet/)]
+
+BCNet: Learning Body and Cloth Shape from A Single Image (ECCV 2020) [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123650018.pdf%20BCNet:%20Learning%20Body%20and%20Cloth%20Shape%20from%20A%20Single%20Image)]
 
 ## Animation, movie, and gaming
 

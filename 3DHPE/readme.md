@@ -171,7 +171,7 @@ Coherent Reconstruction of Multiple Humans from a Single Image (CVPR 2020) [[Pap
 
 Camera Distance-aware Top-down Approach for 3D Multi-person Pose Estimation from a Single RGB Image (ICCV 2019) [[Paper](https://arxiv.org/pdf/1907.11346v2.pdf)] [[code](https://github.com/mks0601/3DMPPE_POSENET_RELEASE)]
 
-PandaNet: Anchor-Based Single-Shot Multi-Person 3D Pose Estimation (CVPR 2020) [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Benzine_PandaNet_Anchor-Based_Single-Shot_Multi-Person_3D_Pose_Estimation_CVPR_2020_paper.pdf)] [[code](https://github.com/flyawaychase/3DHumanPose)]
+PandaNet: Anchor-Based Single-Shot Multi-Person 3D Pose Estimation (CVPR 2020) [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Benzine_PandaNet_Anchor-Based_Single-Shot_Multi-Person_3D_Pose_Estimation_CVPR_2020_paper.pdf)] 
 
 HMOR: Hierarchical Multi-Person Ordinal Relations for Monocular Multi-Person 3D Pose Estimation (ECCV 2020) [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480256.pdf)]
 

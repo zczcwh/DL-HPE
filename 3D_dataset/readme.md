@@ -18,7 +18,7 @@
 
 
 # 3D HPE results on polupar datasets
-<p align="center"> <img src="https://github.com/zczcwh/DL-HPE/blob/main/figure/3d-single-person.png" width="105%"> </p>
+<p align="center"> <img src="https://github.com/zczcwh/DL-HPE/blob/main/figure/3D-single-person.png" width="105%"> </p>
 
 
 |  |   |                                |   |   | |                                                                                                   |   |  |   |                                              |   | | | |

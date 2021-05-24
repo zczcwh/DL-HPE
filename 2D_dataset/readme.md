@@ -11,7 +11,7 @@
 - PoseTrack dataset [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Andriluka_PoseTrack_A_Benchmark_CVPR_2018_paper.pdf) [[dataset page]](https://posetrack.net/)
 
 
-# 2D HPE results on polupar datasets
+# 2D HPE results on popular datasets
 ### Comparison of different 2D single-person HPE methods on the LSP dataset using PCP measure (for the individual limbs like torso, head, legs, arms and the whole body) with "Person-Centric" annotations.
 
 | Year | Methods                      | Torso                     | Upper Leg                 | Lower Leg                 | Upper arm                | Forearm | Head    | Total     |

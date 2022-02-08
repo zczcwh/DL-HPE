@@ -20,7 +20,7 @@ Our recent ICCV 2021 paper on 3D Human Pose Estimation using Transformers: [3D H
 [[Code](https://github.com/zczcwh/PoseFormer)]
 
 ## Overview
-This is the official repository of **Deep Learning-Based Human Pose Estimation:A Survey**, a comprehensive and systematic review of recent deep learning-based solutions for 2D and 3D human pose estimation(HPE). It also presents comparison results of different 2D and 3D HPE methods on several publicly available datasets. Additionally, more than 240 research papers since 2014 are covered and **we will update this page on a regular basis. Please feel free to contact czheng6@uncc.edu or wwu25@uncc.edu if you have any suggestions!**
+This is the official repository of **Deep Learning-Based Human Pose Estimation:A Survey**, a comprehensive and systematic review of recent deep learning-based solutions for 2D and 3D human pose estimation(HPE). It also presents comparison results of different 2D and 3D HPE methods on several publicly available datasets. Additionally, more than 250 research papers since 2014 are covered and **we will update this page on a regular basis. Please feel free to contact cezheng@knights.ucf.edu or wwu25@uncc.edu if you have any suggestions!**
 
 ## Introduction
 Human pose estimation aims to locate the human body parts and build human body representation (e.g., body skeleton) from

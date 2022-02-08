@@ -6,9 +6,9 @@
 
 [Ce Zheng<sup>∗</sup>](https://zczcwh.github.io/), 
 [Wenhan Wu<sup>∗</sup>](https://sites.google.com/view/wenhanwu/%E9%A6%96%E9%A1%B5), 
+[Chen Chen](https://www.crcv.ucf.edu/chenchen/),
 [Taojiannan Yang](https://sites.google.com/view/taojiannanyang/home), 
-[Sijie Zhu](https://sites.google.com/uncc.edu/sijiezhu/home),
-[Chen Chen](https://webpages.uncc.edu/cchen62/),
+[Sijie Zhu](https://jeff-zilence.github.io/),
 [Ju Shen](https://udayton.edu/directory/artssciences/computerscience/shen_ju.php),
 [Nasser Kehtarnavaz](https://personal.utdallas.edu/~nxk019000/index.html),
 [Mubarak Shah](https://www.crcv.ucf.edu/person/mubarak-shah/).

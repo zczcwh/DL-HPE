@@ -9,7 +9,6 @@
 [Taojiannan Yang](https://sites.google.com/view/taojiannanyang/home), 
 [Sijie Zhu](https://sites.google.com/uncc.edu/sijiezhu/home),
 [Chen Chen](https://webpages.uncc.edu/cchen62/),
-[Ruixu Liu](https://udayton.edu/directory/engineering/electrical_and_computer/liu-ruixu.php),
 [Ju Shen](https://udayton.edu/directory/artssciences/computerscience/shen_ju.php),
 [Nasser Kehtarnavaz](https://personal.utdallas.edu/~nxk019000/index.html),
 [Mubarak Shah](https://www.crcv.ucf.edu/person/mubarak-shah/).

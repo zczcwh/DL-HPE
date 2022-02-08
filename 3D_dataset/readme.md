@@ -18,7 +18,7 @@
 
 
 # 3D HPE results on popular datasets
-<p align="center"> <img src="https://github.com/zczcwh/DL-HPE/blob/main/figure/3d-single-person.png" width="115%"> </p>
+<p align="center"> <img src="https://github.com/zczcwh/DL-HPE/blob/main/figure/3d-single-person.png" width="135%"> </p>
 
 
 |  |   |                                |   |   | |                                                                                                   |   |  |   |                                              |   | | | |

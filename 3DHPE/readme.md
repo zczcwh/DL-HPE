@@ -118,23 +118,24 @@
 
 [CVPR 2021] Graph Stacked Hourglass Networks for 3D Human Pose Estimation [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_Graph_Stacked_Hourglass_Networks_for_3D_Human_Pose_Estimation_CVPR_2021_paper.pdf)] 
 
-[ICCV2021] Learning Causal Representation for Training Cross-Domain Pose Estimator via Generative Interventions  [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Learning_Causal_Representation_for_Training_Cross-Domain_Pose_Estimator_via_Generative_ICCV_2021_paper.pdf)] 
+[ICCV 2021] Learning Causal Representation for Training Cross-Domain Pose Estimator via Generative Interventions  [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_Learning_Causal_Representation_for_Training_Cross-Domain_Pose_Estimator_via_Generative_ICCV_2021_paper.pdf)] 
 
-[ICCV2021] Learning Skeletal Graph Neural Networks for Hard 3D Pose Estimation  [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zeng_Learning_Skeletal_Graph_Neural_Networks_for_Hard_3D_Pose_Estimation_ICCV_2021_paper.pdf)] 
+[ICCV 2021] Learning Skeletal Graph Neural Networks for Hard 3D Pose Estimation  [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zeng_Learning_Skeletal_Graph_Neural_Networks_for_Hard_3D_Pose_Estimation_ICCV_2021_paper.pdf)] 
 
-[ICCV2021] Modulated Graph Convolutional Network for 3D Human Pose Estimation [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zou_Modulated_Graph_Convolutional_Network_for_3D_Human_Pose_Estimation_ICCV_2021_paper.pdf)] 
+[ICCV 2021] Modulated Graph Convolutional Network for 3D Human Pose Estimation [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zou_Modulated_Graph_Convolutional_Network_for_3D_Human_Pose_Estimation_ICCV_2021_paper.pdf)] 
 
-[ICCV2021] Probabilistic Monocular 3D Human Pose Estimation with Normalizing Flows [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wehrbein_Probabilistic_Monocular_3D_Human_Pose_Estimation_With_Normalizing_Flows_ICCV_2021_paper.pdf)] 
+[ICCV 2021] Probabilistic Monocular 3D Human Pose Estimation with Normalizing Flows [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wehrbein_Probabilistic_Monocular_3D_Human_Pose_Estimation_With_Normalizing_Flows_ICCV_2021_paper.pdf)] 
 
-[ICCV2021] Towards Alleviating the Modeling Ambiguity of Unsupervised Monocular 3D Human Pose Estimation [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_Towards_Alleviating_the_Modeling_Ambiguity_of_Unsupervised_Monocular_3D_Human_ICCV_2021_paper.pdf)]  
+[ICCV 2021] Towards Alleviating the Modeling Ambiguity of Unsupervised Monocular 3D Human Pose Estimation [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_Towards_Alleviating_the_Modeling_Ambiguity_of_Unsupervised_Monocular_3D_Human_ICCV_2021_paper.pdf)]  
 
-[ICCV2021] Camera Distortion-aware 3D Human Pose Estimation in Video with Optimization-based Meta-Learning [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cho_Camera_Distortion-Aware_3D_Human_Pose_Estimation_in_Video_With_Optimization-Based_ICCV_2021_paper.pdf)]  
+[ICCV 2021] Camera Distortion-aware 3D Human Pose Estimation in Video with Optimization-based Meta-Learning [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Cho_Camera_Distortion-Aware_3D_Human_Pose_Estimation_in_Video_With_Optimization-Based_ICCV_2021_paper.pdf)]  
 
-[ICCV2021] Encoder-decoder with Multi-level Attention for 3D Human Shape and Pose Estimation [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wan_Encoder-Decoder_With_Multi-Level_Attention_for_3D_Human_Shape_and_Pose_ICCV_2021_paper.pdf)]  
+[ICCV 2021] Encoder-decoder with Multi-level Attention for 3D Human Shape and Pose Estimation [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wan_Encoder-Decoder_With_Multi-Level_Attention_for_3D_Human_Shape_and_Pose_ICCV_2021_paper.pdf)]  
 
 3D Human Pose Estimation with Spatial and Temporal Transformers (ICCV 2021) [[Paper](https://arxiv.org/pdf/2103.10455.pdf)] [[code](https://github.com/zczcwh/PoseFormer)]
 
 **Mesh:**
+
 [ACM Trans. Graphics 2015] SMPL: A Skinned Multi-Person Linear Model [[Paper](https://virtualhumans.mpi-inf.mpg.de/papers/SMPL15/SMPL15.pdf)] 
 
 [ECCV 2016] Keep it SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image [[Paper](https://arxiv.org/pdf/1607.08128v1.pdf)] [[code](https://github.com/Jtoo/fitting_human_smpl_model)]
@@ -196,59 +197,57 @@
 
 [CVPR 2021] Probabilistic 3D Human Shape and Pose Estimation from Multiple Unconstrained Images in the Wild [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Sengupta_Probabilistic_3D_Human_Shape_and_Pose_Estimation_From_Multiple_Unconstrained_CVPR_2021_paper.pdf)]
 
-[ICCV2021] imGHUM: Implicit Generative Models of 3D Human Shape and Articulated Pose [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Alldieck_imGHUM_Implicit_Generative_Models_of_3D_Human_Shape_and_Articulated_ICCV_2021_paper.pdf)]
+[ICCV 2021] imGHUM: Implicit Generative Models of 3D Human Shape and Articulated Pose [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Alldieck_imGHUM_Implicit_Generative_Models_of_3D_Human_Shape_and_Articulated_ICCV_2021_paper.pdf)]
 
-[ICCV2021] Intrinsic-Extrinsic Preserved GANs for Unsupervised 3D Pose Transfer [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Intrinsic-Extrinsic_Preserved_GANs_for_Unsupervised_3D_Pose_Transfer_ICCV_2021_paper.pdf)]
+[ICCV 2021] Intrinsic-Extrinsic Preserved GANs for Unsupervised 3D Pose Transfer [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_Intrinsic-Extrinsic_Preserved_GANs_for_Unsupervised_3D_Pose_Transfer_ICCV_2021_paper.pdf)]
 
-[ICCV2021] UltraPose: Synthesizing Dense Pose with 1 Billion Points by Human-body Decoupling 3D Model [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yan_UltraPose_Synthesizing_Dense_Pose_With_1_Billion_Points_by_Human-Body_ICCV_2021_paper.pdf)]
+[ICCV 2021] UltraPose: Synthesizing Dense Pose with 1 Billion Points by Human-body Decoupling 3D Model [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yan_UltraPose_Synthesizing_Dense_Pose_With_1_Billion_Points_by_Human-Body_ICCV_2021_paper.pdf)]
 
-[ICCV2021] Learning Realistic Human Reposing using Cyclic Self-Supervision with 3D Shape, Pose, and Appearance Consistency [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Sanyal_Learning_Realistic_Human_Reposing_Using_Cyclic_Self-Supervision_With_3D_Shape_ICCV_2021_paper.pdf)]
+[ICCV 2021] Learning Realistic Human Reposing using Cyclic Self-Supervision with 3D Shape, Pose, and Appearance Consistency [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Sanyal_Learning_Realistic_Human_Reposing_Using_Cyclic_Self-Supervision_With_3D_Shape_ICCV_2021_paper.pdf)]
 
-[ICCV2021] Revitalizing Optimization for 3D Human Pose and Shape Estimation: A Sparse Constrained Formulation [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Fan_Revitalizing_Optimization_for_3D_Human_Pose_and_Shape_Estimation_A_ICCV_2021_paper.pdf)]
+[ICCV 2021] Revitalizing Optimization for 3D Human Pose and Shape Estimation: A Sparse Constrained Formulation [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Fan_Revitalizing_Optimization_for_3D_Human_Pose_and_Shape_Estimation_A_ICCV_2021_paper.pdf)]
 
-[ICCV2021] Hierarchical Kinematic Probability Distributions for 3D Human Shape and Pose Estimation from Images in the Wild [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Sengupta_Hierarchical_Kinematic_Probability_Distributions_for_3D_Human_Shape_and_Pose_ICCV_2021_paper.pdf)]
+[ICCV 2021] Hierarchical Kinematic Probability Distributions for 3D Human Shape and Pose Estimation from Images in the Wild [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Sengupta_Hierarchical_Kinematic_Probability_Distributions_for_3D_Human_Shape_and_Pose_ICCV_2021_paper.pdf)]
 
-[CVPR 2021] Beyond Static Features for Temporally Consistent 3D Human Pose and Shape from a Video [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Choi_Beyond_Static_Features_for_Temporally_Consistent_3D_Human_Pose_and_CVPR_2021_paper.pdf)]
+[ICCV 2021] PyMAF: 3D Human Pose and Shape Regression with Pyramidal Mesh Alignment Feedback Loop [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_PyMAF_3D_Human_Pose_and_Shape_Regression_With_Pyramidal_Mesh_ICCV_2021_paper.pdf)]
 
-[ICCV2021] PyMAF: 3D Human Pose and Shape Regression with Pyramidal Mesh Alignment Feedback Loop [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_PyMAF_3D_Human_Pose_and_Shape_Regression_With_Pyramidal_Mesh_ICCV_2021_paper.pdf)]
+[ICCV 2021] HuMoR: 3D Human Motion Model for Robust Pose Estimation [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Rempe_HuMoR_3D_Human_Motion_Model_for_Robust_Pose_Estimation_ICCV_2021_paper.pdf)]
 
-[ICCV2021] HuMoR: 3D Human Motion Model for Robust Pose Estimation [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Rempe_HuMoR_3D_Human_Motion_Model_for_Robust_Pose_Estimation_ICCV_2021_paper.pdf)]
+[ICCV 2021] Probabilistic Modeling for Human Mesh Recovery [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Kolotouros_Probabilistic_Modeling_for_Human_Mesh_Recovery_ICCV_2021_paper.pdf)]
 
-[ICCV2021] Probabilistic Modeling for Human Mesh Recovery [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Kolotouros_Probabilistic_Modeling_for_Human_Mesh_Recovery_ICCV_2021_paper.pdf)]
+[ICCV 2021] Skeleton2Mesh: Kinematics Prior Injected Unsupervised Human Mesh Recovery [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_Skeleton2Mesh_Kinematics_Prior_Injected_Unsupervised_Human_Mesh_Recovery_ICCV_2021_paper.pdf)]
 
-[ICCV2021] Skeleton2Mesh: Kinematics Prior Injected Unsupervised Human Mesh Recovery [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_Skeleton2Mesh_Kinematics_Prior_Injected_Unsupervised_Human_Mesh_Recovery_ICCV_2021_paper.pdf)]
-
-[ICCV2021] Mesh Graphormer [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Lin_Mesh_Graphormer_ICCV_2021_paper.pdf)]
+[ICCV 2021] Mesh Graphormer [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Lin_Mesh_Graphormer_ICCV_2021_paper.pdf)]
 
 ### - Single-view multi-person 3D HPE
 
-LCR-Net: Localization-Classification-Regression for Human Pose (CVPR 2017) [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Rogez_LCR-Net_Localization-Classification-Regression_for_CVPR_2017_paper.pdf)] 
+[CVPR 2017] LCR-Net: Localization-Classification-Regression for Human Pose [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Rogez_LCR-Net_Localization-Classification-Regression_for_CVPR_2017_paper.pdf)] 
 
-LCR-Net++: Multi-person 2D and 3D Pose Detection in Natural Images (TPAMI 2019) [[Paper](https://arxiv.org/pdf/1803.00455v3.pdf)] 
+[TPAMI 2019] LCR-Net++: Multi-person 2D and 3D Pose Detection in Natural Images [[Paper](https://arxiv.org/pdf/1803.00455v3.pdf)] 
 
-Monocular 3D Pose and Shape Estimation of Multiple People in Natural Scenes - The Importance of Multiple Scene Constraints (CVPR 2018) [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zanfir_Monocular_3D_Pose_CVPR_2018_paper.pdf)] 
+[CVPR 2018] Monocular 3D Pose and Shape Estimation of Multiple People in Natural Scenes - The Importance of Multiple Scene Constraints [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zanfir_Monocular_3D_Pose_CVPR_2018_paper.pdf)] 
 
-Single-Stage Multi-Person Pose Machines (ICCV 2019) [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Nie_Single-Stage_Multi-Person_Pose_Machines_ICCV_2019_paper.pdf)] [[code](https://github.com/murdockhou/Single-Stage-Multi-person-Pose-Machines)]
+[ICCV 2019] Single-Stage Multi-Person Pose Machines [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Nie_Single-Stage_Multi-Person_Pose_Machines_ICCV_2019_paper.pdf)] [[code](https://github.com/murdockhou/Single-Stage-Multi-person-Pose-Machines)]
 
-Coherent Reconstruction of Multiple Humans from a Single Image (CVPR 2020) [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_Coherent_Reconstruction_of_Multiple_Humans_From_a_Single_Image_CVPR_2020_paper.pdf)] [[code](https://github.com/JiangWenPL/multiperson)]
+[CVPR 2020] Coherent Reconstruction of Multiple Humans from a Single Image [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_Coherent_Reconstruction_of_Multiple_Humans_From_a_Single_Image_CVPR_2020_paper.pdf)] [[code](https://github.com/JiangWenPL/multiperson)]
 
-Camera Distance-aware Top-down Approach for 3D Multi-person Pose Estimation from a Single RGB Image (ICCV 2019) [[Paper](https://arxiv.org/pdf/1907.11346v2.pdf)] [[code](https://github.com/mks0601/3DMPPE_POSENET_RELEASE)]
+[ICCV 2019] Camera Distance-aware Top-down Approach for 3D Multi-person Pose Estimation from a Single RGB Image [[Paper](https://arxiv.org/pdf/1907.11346v2.pdf)] [[code](https://github.com/mks0601/3DMPPE_POSENET_RELEASE)]
 
-PandaNet: Anchor-Based Single-Shot Multi-Person 3D Pose Estimation (CVPR 2020) [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Benzine_PandaNet_Anchor-Based_Single-Shot_Multi-Person_3D_Pose_Estimation_CVPR_2020_paper.pdf)] 
+[CVPR 2020] PandaNet: Anchor-Based Single-Shot Multi-Person 3D Pose Estimation [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Benzine_PandaNet_Anchor-Based_Single-Shot_Multi-Person_3D_Pose_Estimation_CVPR_2020_paper.pdf)] 
 
-HMOR: Hierarchical Multi-Person Ordinal Relations for Monocular Multi-Person 3D Pose Estimation (ECCV 2020) [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480256.pdf)]
+[ECCV 2020] HMOR: Hierarchical Multi-Person Ordinal Relations for Monocular Multi-Person 3D Pose Estimation [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480256.pdf)]
 
-Deep Network for the Integrated 3D Sensing of Multiple People in Natural Images (NeurIPS 2018) [[Paper](https://proceedings.neurips.cc/paper/2018/file/6a6610feab86a1f294dbbf5855c74af9-Paper.pdf)] 
+[NeurIPS 2018] Deep Network for the Integrated 3D Sensing of Multiple People in Natural Images [[Paper](https://proceedings.neurips.cc/paper/2018/file/6a6610feab86a1f294dbbf5855c74af9-Paper.pdf)] 
 
-Unsupervised Cross-Modal Alignment for Multi-Person 3D Pose Estimation (ECCV 2020) [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580035.pdf)] 
+[ECCV 2020] Unsupervised Cross-Modal Alignment for Multi-Person 3D Pose Estimation [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123580035.pdf)] 
 
-Compressed Volumetric Heatmaps for Multi-Person 3D Pose Estimation (CVPR 2020) [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fabbri_Compressed_Volumetric_Heatmaps_for_Multi-Person_3D_Pose_Estimation_CVPR_2020_paper.pdf)] [[code](https://github.com/fabbrimatteo/LoCO)]
+[CVPR 2020] Compressed Volumetric Heatmaps for Multi-Person 3D Pose Estimation [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Fabbri_Compressed_Volumetric_Heatmaps_for_Multi-Person_3D_Pose_Estimation_CVPR_2020_paper.pdf)] [[code](https://github.com/fabbrimatteo/LoCO)]
 
-Single-Shot Multi-Person 3D Pose Estimation From Monocular RGB (3DV 2018) [[Paper](https://arxiv.org/pdf/1712.03453v3.pdf)] [[code](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch)]
+[3DV 2018] Single-Shot Multi-Person 3D Pose Estimation From Monocular RGB [[Paper](https://arxiv.org/pdf/1712.03453v3.pdf)] [[code](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch)]
 
-SMAP: Single-Shot Multi-Person Absolute 3D Pose Estimation (ECCV 2020) [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600545.pdf)]
+[ECCV 2020] SMAP: Single-Shot Multi-Person Absolute 3D Pose Estimation [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600545.pdf)]
 
-XNect: Real-time Multi-Person 3D Motion Capture with a Single RGB Camera (ACM T. Graphics) [[Paper](https://arxiv.org/pdf/1907.00837v2.pdf)] [[code](https://github.com/mehtadushy/SelecSLS-Pytorch)]
+[ ACM T. Graphics 2020] XNect: Real-time Multi-Person 3D Motion Capture with a Single RGB Camera [[Paper](https://arxiv.org/pdf/1907.00837v2.pdf)] [[code](https://github.com/mehtadushy/SelecSLS-Pytorch)]
 
 [CVPR 2021] TesseTrack: End-to-End Learnable Multi-Person Articulated 3D Pose Tracking [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Reddy_TesseTrack_End-to-End_Learnable_Multi-Person_Articulated_3D_Pose_Tracking_CVPR_2021_paper.pdf)]  
 
@@ -259,45 +258,45 @@ XNect: Real-time Multi-Person 3D Motion Capture with a Single RGB Camera (ACM T.
 
 ### - Multi-view 3D HPE
 
-Harvesting Multiple Views for Marker-less 3D Human Pose Annotations (CVPR 2017) [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Pavlakos_Harvesting_Multiple_Views_CVPR_2017_paper.pdf)] 
+[CVPR 2017] Harvesting Multiple Views for Marker-less 3D Human Pose Annotations [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Pavlakos_Harvesting_Multiple_Views_CVPR_2017_paper.pdf)] 
 
-Cross View Fusion for 3D Human Pose Estimation (ICCV 2017) [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Qiu_Cross_View_Fusion_for_3D_Human_Pose_Estimation_ICCV_2019_paper.pdf)] [[code](https://github.com/microsoft/multiview-human-pose-estimation-pytorch)]
+[ICCV 2017] Cross View Fusion for 3D Human Pose Estimation [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Qiu_Cross_View_Fusion_for_3D_Human_Pose_Estimation_ICCV_2019_paper.pdf)] [[code](https://github.com/microsoft/multiview-human-pose-estimation-pytorch)]
 
-Shape-Aware Human Pose and Shape Reconstruction Using Multi-View Images (ICCV 2019) [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Liang_Shape-Aware_Human_Pose_and_Shape_Reconstruction_Using_Multi-View_Images_ICCV_2019_paper.pdf)] 
+[ICCV 2019] Shape-Aware Human Pose and Shape Reconstruction Using Multi-View Images [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Liang_Shape-Aware_Human_Pose_and_Shape_Reconstruction_Using_Multi-View_Images_ICCV_2019_paper.pdf)] 
 
-Fast and Robust Multi-Person 3D Pose Estimation from Multiple Views (CVPR 2019) [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Dong_Fast_and_Robust_Multi-Person_3D_Pose_Estimation_From_Multiple_Views_CVPR_2019_paper.pdf)] [[code](https://github.com/zju3dv/mvpose)]
+[CVPR 2019] Fast and Robust Multi-Person 3D Pose Estimation from Multiple Views [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Dong_Fast_and_Robust_Multi-Person_3D_Pose_Estimation_From_Multiple_Views_CVPR_2019_paper.pdf)] [[code](https://github.com/zju3dv/mvpose)]
 
-VoxelPose: Towards Multi-Camera 3D Human Pose Estimation in Wild Environment (ECCV 2020) [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460188.pdf)] [[code](https://github.com/microsoft/voxelpose-pytorch)]
+[ECCV 2020] VoxelPose: Towards Multi-Camera 3D Human Pose Estimation in Wild Environment [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460188.pdf)] [[code](https://github.com/microsoft/voxelpose-pytorch)]
 
-Learning Monocular 3D Human Pose Estimation from Multi-view Images (CVPR 2018) [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Rhodin_Learning_Monocular_3D_CVPR_2018_paper.pdf)] 
+[CVPR 2018] Learning Monocular 3D Human Pose Estimation from Multi-view Images [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Rhodin_Learning_Monocular_3D_CVPR_2018_paper.pdf)] 
 
-Unsupervised Geometry-Aware Representation for 3D Human Pose Estimation (ECCV 2018) [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Helge_Rhodin_Unsupervised_Geometry-Aware_Representation_ECCV_2018_paper.pdf)] [[code](https://github.com/hrhodin/UnsupervisedGeometryAwareRepresentationLearning)]
+[ECCV 2018] Unsupervised Geometry-Aware Representation for 3D Human Pose Estimation [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Helge_Rhodin_Unsupervised_Geometry-Aware_Representation_ECCV_2018_paper.pdf)] [[code](https://github.com/hrhodin/UnsupervisedGeometryAwareRepresentationLearning)]
 
-Weakly-Supervised Discovery of Geometry-Aware Representation for 3D Human Pose Estimation (CVPR 2019) [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Weakly-Supervised_Discovery_of_Geometry-Aware_Representation_for_3D_Human_Pose_Estimation_CVPR_2019_paper.pdf)] 
+[CVPR 2019] Weakly-Supervised Discovery of Geometry-Aware Representation for 3D Human Pose Estimation [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Weakly-Supervised_Discovery_of_Geometry-Aware_Representation_for_3D_Human_Pose_Estimation_CVPR_2019_paper.pdf)] 
 
-Multi-person 3D Pose Estimation in Crowded Scenes Based on Multi-View Geometry (ECCV 2020) [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480545.pdf)] [[code](https://github.com/HeCraneChen/3D-Crowd-Pose-Estimation-Based-on-MVG)]
+[ECCV 2020] Multi-person 3D Pose Estimation in Crowded Scenes Based on Multi-View Geometry [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480545.pdf)] [[code](https://github.com/HeCraneChen/3D-Crowd-Pose-Estimation-Based-on-MVG)]
 
-Multiview-Consistent Semi-Supervised Learning for 3D Human Pose Estimation (CVPR 2020) [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Mitra_Multiview-Consistent_Semi-Supervised_Learning_for_3D_Human_Pose_Estimation_CVPR_2020_paper.pdf)]
+[CVPR 2020] Multiview-Consistent Semi-Supervised Learning for 3D Human Pose Estimation [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Mitra_Multiview-Consistent_Semi-Supervised_Learning_for_3D_Human_Pose_Estimation_CVPR_2020_paper.pdf)]
 
-Weakly-Supervised 3D Human Pose Learning via Multi-view Images in the Wild (CVPR 2020) [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Iqbal_Weakly-Supervised_3D_Human_Pose_Learning_via_Multi-View_Images_in_the_CVPR_2020_paper.pdf)] 
+[CVPR 2020] Weakly-Supervised 3D Human Pose Learning via Multi-view Images in the Wild [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Iqbal_Weakly-Supervised_3D_Human_Pose_Learning_via_Multi-View_Images_in_the_CVPR_2020_paper.pdf)] 
 
-End-to-end Dynamic Matching Network for Multi-view Multi-person 3d Pose Estimation (ECCV 2020) [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730477.pdf)] 
+[ECCV 2020] End-to-end Dynamic Matching Network for Multi-view Multi-person 3d Pose Estimation [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123730477.pdf)] 
 
-AdaFuse: Adaptive Multiview Fusion for Accurate Human Pose Estimation in the Wild (IJCV 2020) [[Paper](https://arxiv.org/pdf/2010.13302v1.pdf)] [[code](https://github.com/zhezh/adafuse-3d-human-pose)]
+[IJCV 2020] AdaFuse: Adaptive Multiview Fusion for Accurate Human Pose Estimation in the Wild [[Paper](https://arxiv.org/pdf/2010.13302v1.pdf)] [[code](https://github.com/zhezh/adafuse-3d-human-pose)]
 
-DeepCap: Monocular Human Performance Capture Using Weak Supervision (CVPR 2020) [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Habermann_DeepCap_Monocular_Human_Performance_Capture_Using_Weak_Supervision_CVPR_2020_paper.pdf)]
+[CVPR 2020] DeepCap: Monocular Human Performance Capture Using Weak Supervision [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Habermann_DeepCap_Monocular_Human_Performance_Capture_Using_Weak_Supervision_CVPR_2020_paper.pdf)]
 
-A generalizable approach for multi-view 3D human pose regression (arxiv 2018) [[Paper](https://arxiv.org/pdf/1804.10462v2.pdf)] [[code](https://github.com/AimAlex/Multi-view-3D-Human-Pose)]
+[arxiv 2018] A generalizable approach for multi-view 3D human pose regression [[Paper](https://arxiv.org/pdf/1804.10462v2.pdf)] [[code](https://github.com/AimAlex/Multi-view-3D-Human-Pose)]
 
-Self-Supervised Learning of 3D Human Pose using Multi-view Geometry (CVPR 2019) [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kocabas_Self-Supervised_Learning_of_3D_Human_Pose_Using_Multi-View_Geometry_CVPR_2019_paper.pdf)] [[code](https://github.com/mkocabas/EpipolarPose)]
+[CVPR 2019] Self-Supervised Learning of 3D Human Pose using Multi-view Geometry [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kocabas_Self-Supervised_Learning_of_3D_Human_Pose_Using_Multi-View_Geometry_CVPR_2019_paper.pdf)] [[code](https://github.com/mkocabas/EpipolarPose)]
 
-Domes to Drones: Self-Supervised Active Triangulation for 3D Human Pose Reconstruction (NeurIPS 2019) [[Paper](https://proceedings.neurips.cc/paper/2019/file/c3e4035af2a1cde9f21e1ae1951ac80b-Paper.pdf)] [[code](https://github.com/ErikGartner/actor)]
+[NeurIPS 2019] Domes to Drones: Self-Supervised Active Triangulation for 3D Human Pose Reconstruction [[Paper](https://proceedings.neurips.cc/paper/2019/file/c3e4035af2a1cde9f21e1ae1951ac80b-Paper.pdf)] [[code](https://github.com/ErikGartner/actor)]
 
-Cross-View Tracking for Multi-Human 3D Pose Estimation at over 100 FPS (CVPR 2020) [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Cross-View_Tracking_for_Multi-Human_3D_Pose_Estimation_at_Over_100_CVPR_2020_paper.pdf)] [[code](https://github.com/longcw/crossview_3d_pose_tracking)]
+[CVPR 2020] Cross-View Tracking for Multi-Human 3D Pose Estimation at over 100 FPS [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Cross-View_Tracking_for_Multi-Human_3D_Pose_Estimation_at_Over_100_CVPR_2020_paper.pdf)] [[code](https://github.com/longcw/crossview_3d_pose_tracking)]
 
-Lightweight Multi-View 3D Pose Estimation through Camera-Disentangled Representation (CVPR 2020) [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Remelli_Lightweight_Multi-View_3D_Pose_Estimation_Through_Camera-Disentangled_Representation_CVPR_2020_paper.pdf)] 
+[CVPR 2020] Lightweight Multi-View 3D Pose Estimation through Camera-Disentangled Representation [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Remelli_Lightweight_Multi-View_3D_Pose_Estimation_Through_Camera-Disentangled_Representation_CVPR_2020_paper.pdf)] 
 
-MetaFuse: A Pre-trained Fusion Model for Human Pose Estimation (CVPR 2020) [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xie_MetaFuse_A_Pre-trained_Fusion_Model_for_Human_Pose_Estimation_CVPR_2020_paper.pdf)]
+[CVPR 2020] MetaFuse: A Pre-trained Fusion Model for Human Pose Estimation [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xie_MetaFuse_A_Pre-trained_Fusion_Model_for_Human_Pose_Estimation_CVPR_2020_paper.pdf)]
 
 [ICCV2021] Graph-Based 3D Multi-Person Pose Estimation Using Multi-View Images [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wu_Graph-Based_3D_Multi-Person_Pose_Estimation_Using_Multi-View_Images_ICCV_2021_paper.pdf)]  
 
@@ -307,51 +306,51 @@ MetaFuse: A Pre-trained Fusion Model for Human Pose Estimation (CVPR 2020) [[Pap
 
 ## 3D HPE from other sources 
 
-DoubleFusion: Real-time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor (CVPR 2018) [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_DoubleFusion_Real-Time_Capture_CVPR_2018_paper.pdf)] 
+[TPAMI 2016] Human Pose Estimation from Video and IMUs [[Paper](https://virtualhumans.mpi-inf.mpg.de/papers/vonmarcardponsmollPAMI16/vonmarcardponsmollPAMI16.pdf)] 
 
-A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image (ICCV 2019) [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Xiong_A2J_Anchor-to-Joint_Regression_Network_for_3D_Articulated_Pose_Estimation_From_ICCV_2019_paper.pdf)] [[code](https://github.com/zhangboshen/A2J)]
+[Computer Graphics Forum 2017] Sparse Inertial Poser: Automatic 3D Human Pose Estimation from Sparse IMUs  [[Paper](https://arxiv.org/pdf/1703.08014.pdf)] 
 
-A Multi-view RGB-D Approach for Human Pose Estimation in Operating Rooms (WACV 2017) [[Paper](https://arxiv.org/pdf/1701.07372v1.pdf)] [[code](https://github.com/CAMMA-public/mvor)]
+[WACV 2017] A Multi-view RGB-D Approach for Human Pose Estimation in Operating Rooms [[Paper](https://arxiv.org/pdf/1701.07372v1.pdf)] [[code](https://github.com/CAMMA-public/mvor)]
 
-TexMesh: Reconstructing Detailed Human Texture and Geometry from RGB-D Video (ECCV 2020) [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550494.pdf)] 
+[ECCV 2018] Recovering Accurate 3D Human Pose in The Wild Using IMUs and a Moving Camera [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Timo_von_Marcard_Recovering_Accurate_3D_ECCV_2018_paper.pdf)]
 
-Skeleton-Aware 3D Human Shape Reconstruction From Point Clouds (ICCV 2019) [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Jiang_Skeleton-Aware_3D_Human_Shape_Reconstruction_From_Point_Clouds_ICCV_2019_paper.pdf)] 
+[ CVPR 2018] DoubleFusion: Real-time Capture of Human Performances with Inner Body Shapes from a Single Depth Sensor [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_DoubleFusion_Real-Time_Capture_CVPR_2018_paper.pdf)] 
 
-Sequential 3D Human Pose and Shape Estimation From Point Clouds (CVPR 2020) [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Sequential_3D_Human_Pose_and_Shape_Estimation_From_Point_Clouds_CVPR_2020_paper.pdf)]
+[ICCV 2019] A2J: Anchor-to-Joint Regression Network for 3D Articulated Pose Estimation from a Single Depth Image [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Xiong_A2J_Anchor-to-Joint_Regression_Network_for_3D_Articulated_Pose_Estimation_From_ICCV_2019_paper.pdf)] [[code](https://github.com/zhangboshen/A2J)]
 
-Human Pose Estimation from Video and IMUs (TPAMI 2016) [[Paper](https://virtualhumans.mpi-inf.mpg.de/papers/vonmarcardponsmollPAMI16/vonmarcardponsmollPAMI16.pdf)] 
+[ECCV 2020] TexMesh: Reconstructing Detailed Human Texture and Geometry from RGB-D Video [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550494.pdf)] 
 
-Sparse Inertial Poser: Automatic 3D Human Pose Estimation from Sparse IMUs (Computer Graphics Forum 2017) [[Paper](https://arxiv.org/pdf/1703.08014.pdf)] 
+[ICCV 2019] Skeleton-Aware 3D Human Shape Reconstruction From Point Clouds [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Jiang_Skeleton-Aware_3D_Human_Shape_Reconstruction_From_Point_Clouds_ICCV_2019_paper.pdf)] 
 
-Recovering Accurate 3D Human Pose in The Wild Using IMUs and a Moving Camera (ECCV 2018) [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Timo_von_Marcard_Recovering_Accurate_3D_ECCV_2018_paper.pdf)]
+[CVPR 2020] Sequential 3D Human Pose and Shape Estimation From Point Clouds [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Sequential_3D_Human_Pose_and_Shape_Estimation_From_Point_Clouds_CVPR_2020_paper.pdf)]
 
-Deep Inertial Poser: Learning to Reconstruct Human Pose from Sparse Inertial Measurements in Real Time (ACM Transactions on Graphics) [[Paper](https://arxiv.org/pdf/1810.04703v1.pdf)] 
+[(ACM TOG 2018) ] Deep Inertial Poser: Learning to Reconstruct Human Pose from Sparse Inertial Measurements in Real Time [[Paper](https://arxiv.org/pdf/1810.04703v1.pdf)] 
 
-Fusing Wearable IMUs with Multi-View Images for Human Pose Estimation: A Geometric Approach (CVPR 2020) [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Fusing_Wearable_IMUs_With_Multi-View_Images_for_Human_Pose_Estimation_CVPR_2020_paper.pdf)] [[code](https://github.com/CHUNYUWANG/imu-human-pose-pytorch)]
+[CVPR 2020] Fusing Wearable IMUs with Multi-View Images for Human Pose Estimation: A Geometric Approach [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_Fusing_Wearable_IMUs_With_Multi-View_Images_for_Human_Pose_Estimation_CVPR_2020_paper.pdf)] [[code](https://github.com/CHUNYUWANG/imu-human-pose-pytorch)]
 
-Eventcap: Monocular 3d capture of high-speed human motions using an event camera (CVPR 2020) [[Paper](https://gvv.mpi-inf.mpg.de/projects/2020-cvpr-eventcap/)] 
+[CVPR 2020] Eventcap: Monocular 3d capture of high-speed human motions using an event camera [[Paper](https://gvv.mpi-inf.mpg.de/projects/2020-cvpr-eventcap/)] 
 
-DeepFuse: An IMU-Aware Network for Real-Time 3D Human Pose Estimation from Multi-View Image (WACV 2020) [[Paper](https://arxiv.org/pdf/1912.04071v1.pdf)] 
+[WACV 2020] DeepFuse: An IMU-Aware Network for Real-Time 3D Human Pose Estimation from Multi-View Image [[Paper](https://arxiv.org/pdf/1912.04071v1.pdf)] 
 
-Through-Wall Human Pose Estimation Using Radio Signals (CVPR 2018) [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhao_Through-Wall_Human_Pose_CVPR_2018_paper.pdf)] 
+[CVPR 2018] Through-Wall Human Pose Estimation Using Radio Signals [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhao_Through-Wall_Human_Pose_CVPR_2018_paper.pdf)] 
 
 RF-based 3D skeletons (ACM Special Interest Group on Data Communication) [[Paper](https://people.csail.mit.edu/mingmin/papers/rfpose3d-sigcomm-zhao.pdf)] 
 
-Through-Wall Human Mesh Recovery Using Radio Signals (ICCV 2019) [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhao_Through-Wall_Human_Mesh_Recovery_Using_Radio_Signals_ICCV_2019_paper.pdf)] 
+[ICCV 2019] Through-Wall Human Mesh Recovery Using Radio Signals [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhao_Through-Wall_Human_Mesh_Recovery_Using_Radio_Signals_ICCV_2019_paper.pdf)] 
 
-Optical Non-Line-of-Sight Physics-based 3D Human Pose Estimation (CVPR 2020) [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Isogawa_Optical_Non-Line-of-Sight_Physics-Based_3D_Human_Pose_Estimation_CVPR_2020_paper.pdf)] [[code](https://github.com/marikoisogawa/OpticalNLOSPose)]
+[CVPR 2020] Optical Non-Line-of-Sight Physics-based 3D Human Pose Estimation [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Isogawa_Optical_Non-Line-of-Sight_Physics-Based_3D_Human_Pose_Estimation_CVPR_2020_paper.pdf)] [[code](https://github.com/marikoisogawa/OpticalNLOSPose)]
 
-Egocap: egocentric marker-less motion capture with two fisheye cameras (SIGGRAPH Asia 2016) [[Paper](https://gvv.mpi-inf.mpg.de/projects/EgoCap/)]
+[SIGGRAPH Asia 2016] Egocap: egocentric marker-less motion capture with two fisheye cameras [[Paper](https://gvv.mpi-inf.mpg.de/projects/EgoCap/)]
 
-Mo 2 cap 2: Real-time mobile 3d motion capture with a cap-mounted fisheye camera (IEEE TVCG Proc. VR 2019) [[Paper](http://gvv.mpi-inf.mpg.de/projects/wxu/Mo2Cap2/)]
+[IEEE TVCG Proc. VR 2019] Mo 2 cap 2: Real-time mobile 3d motion capture with a cap-mounted fisheye camera [[Paper](http://gvv.mpi-inf.mpg.de/projects/wxu/Mo2Cap2/)]
 
-xR-EgoPose: Egocentric 3D Human Pose from an HMD Camera (ICCV 2019) [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Tome_xR-EgoPose_Egocentric_3D_Human_Pose_From_an_HMD_Camera_ICCV_2019_paper.pdf)]
+[ICCV 2019] xR-EgoPose: Egocentric 3D Human Pose from an HMD Camera  [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Tome_xR-EgoPose_Egocentric_3D_Human_Pose_From_an_HMD_Camera_ICCV_2019_paper.pdf)]
 
-SelfPose: 3D Egocentric Pose Estimation from a Headset Mounted Camera (arXiv 2020) [[Paper](https://arxiv.org/pdf/2011.01519.pdf)]
+[arXiv 2020] SelfPose: 3D Egocentric Pose Estimation from a Headset Mounted Camera [[Paper](https://arxiv.org/pdf/2011.01519.pdf)]
 
-Markerless Outdoor Human Motion Capture Using Multiple Autonomous Micro Aerial Vehicles (ICCV 2019) [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Saini_Markerless_Outdoor_Human_Motion_Capture_Using_Multiple_Autonomous_Micro_Aerial_ICCV_2019_paper.pdf)] 
+[ICCV 2019] Markerless Outdoor Human Motion Capture Using Multiple Autonomous Micro Aerial Vehicles [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Saini_Markerless_Outdoor_Human_Motion_Capture_Using_Multiple_Autonomous_Micro_Aerial_ICCV_2019_paper.pdf)] 
 
-Bodies at Rest: 3D Human Pose and Shape Estimation from a Pressure Image using Synthetic Data (CVPR 2020) [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Clever_Bodies_at_Rest_3D_Human_Pose_and_Shape_Estimation_From_CVPR_2020_paper.pdf)] [[code](https://github.com/Healthcare-Robotics/bodies-at-rest)]
+[CVPR 2020] Bodies at Rest: 3D Human Pose and Shape Estimation from a Pressure Image using Synthetic Data [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Clever_Bodies_at_Rest_3D_Human_Pose_and_Shape_Estimation_From_CVPR_2020_paper.pdf)] [[code](https://github.com/Healthcare-Robotics/bodies-at-rest)]
 
 [CVPR 2021] Human POSEitioning System (HPS): 3D Human Pose Estimation and Self-localization in Large Scenes from Body-Mounted Sensors [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Guzov_Human_POSEitioning_System_HPS_3D_Human_Pose_Estimation_and_Self-Localization_CVPR_2021_paper.pdf)] 
 

@@ -71,7 +71,7 @@ Exploiting temporal information for 3D human pose estimation (ECCV 2018) [[Paper
 
 On Boosting Single-Frame 3D Human Pose Estimation via Monocular Videos (ICCV 2019) [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_On_Boosting_Single-Frame_3D_Human_Pose_Estimation_via_Monocular_Videos_ICCV_2019_paper.pdf)] 
 
-Anatomy-aware 3D Human Pose Estimation in Videos (arxiv 2020) [[Paper](https://arxiv.org/pdf/2002.10322v3.pdf)] [[code](https://github.com/sunnychencool/Anatomy3D)]
+Anatomy-aware 3D Human Pose Estimation with Bone-based Pose Decomposition (TCSVT 2021) [[Paper](https://arxiv.org/pdf/2002.10322.pdf)] [[code](https://github.com/sunnychencool/Anatomy3D)]
 
 Attention Mechanism Exploits Temporal Contexts: Real-Time 3D Human Pose Reconstruction (CVPR 2020) [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Attention_Mechanism_Exploits_Temporal_Contexts_Real-Time_3D_Human_Pose_Reconstruction_CVPR_2020_paper.pdf)] [[code](https://github.com/lrxjason/Attention3DHumanPose)]
 

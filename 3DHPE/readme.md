@@ -13,8 +13,6 @@ Coarse-to-fine volumetric prediction for single-image 3D human pose (CVPR 2017) 
 
 Ordinal Depth Supervision for 3D Human Pose Estimation (CVPR 2018) [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Pavlakos_Ordinal_Depth_Supervision_CVPR_2018_paper.pdf)] [[code](https://github.com/geopavlakos/ordinal-pose3d)]
 
-I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image (ECCV 2020) [[Paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520732.pdf)] [[code](https://github.com/mks0601/I2L-MeshNet_RELEASE)]
-
 3D Human Pose Estimation = 2D Pose Estimation + Matching (CVPR 2017) [[Paper](https://arxiv.org/pdf/1612.06524.pdf)] [[code](https://github.com/flyawaychase/3DHumanPose)]
 
 A simple yet effective baseline for 3d human pose estimation (ICCV 2017) [[Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Martinez_A_Simple_yet_ICCV_2017_paper.pdf)] [[code](https://github.com/una-dinosauria/3d-pose-baseline)]
@@ -36,8 +34,6 @@ Generating Multiple Hypotheses for 3D Human Pose Estimation with Mixture Density
 Optimizing Network Structure for 3D Human Pose Estimation (ICCV 2019) [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ci_Optimizing_Network_Structure_for_3D_Human_Pose_Estimation_ICCV_2019_paper.pdf)] 
 
 Semantic Graph Convolutional Networks for 3D Human Pose Regression (CVPR 2019) [[Paper](https://arxiv.org/pdf/1904.03345v3.pdf)] [[code](https://github.com/garyzhao/SemGCN)]
-
-Pose2Mesh: Graph Convolutional Network for 3D Human Pose and Mesh Recovery from a 2D Human Pose (ECCV 2020) [[Paper](https://arxiv.org/pdf/2008.09047v2.pdf)] [[code](https://github.com/hongsukchoi/Pose2Mesh_RELEASE)]
 
 A Comprehensive Study of Weight Sharing in Graph Networks for 3D Human Pose Estimation (ECCV 2020) [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123550324.pdf)]
 
@@ -90,8 +86,6 @@ Deep Kinematics Analysis for Monocular 3D Human Pose Estimation (CVPR 2020) [[Pa
 
 Unsupervised 3D Human Pose Representation with Viewpoint and Pose Disentanglement (ECCV 2020) [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123640103.pdf)] [[code](https://github.com/NIEQiang001/unsupervised-human-pose)]
 
-Hierarchical Kinematic Human Mesh Recovery (ECCV 2020) [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620749.pdf)] 
-
 Propagating LSTM: 3D Pose Estimation based on Joint Interdependency (ECCV 2018) [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Kyoungoh_Lee_Propagating_LSTM_3D_ECCV_2018_paper.pdf)] 
 
 Self-Supervised 3D Human Pose Estimation via Part Guided Novel Image Synthesis (CVPR 2020) [[Paper](https://arxiv.org/pdf/2004.04400v1.pdf)] 
@@ -122,12 +116,6 @@ Learning to Estimate 3D Human Pose and Shape from a Single Color Image (CVPR 201
 
 Neural Body Fitting: Unifying Deep Learning and Model-Based Human Pose and Shape Estimation (3DV 2018) [[Paper](https://arxiv.org/pdf/1808.05942v1.pdf)] [[code](https://github.com/mohomran/neural_body_fitting)]
 
-Convolutional Mesh Regression for Single-Image Human Shape Reconstruction (CVPR 2019) [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kolotouros_Convolutional_Mesh_Regression_for_Single-Image_Human_Shape_Reconstruction_CVPR_2019_paper.pdf)] [[code](https://github.com/nkolot/GraphCMR)]
-
-Detailed Human Shape Estimation from a Single Image by Hierarchical Mesh Deformation (CVPR 2019) [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Detailed_Human_Shape_Estimation_From_a_Single_Image_by_Hierarchical_CVPR_2019_paper.pdf)] [[code](https://github.com/zhuhao-nju/hmd)]
-
-Appearance Consensus Driven Self-Supervised Human Mesh Recovery (ECCV 2020) [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460766.pdf)] 
-
 Exploiting temporal context for 3D human pose estimation in the wild (CVPR 2019) [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Arnab_Exploiting_Temporal_Context_for_3D_Human_Pose_Estimation_in_the_CVPR_2019_paper.pdf)] [[code](https://github.com/deepmind/Temporal-3D-Pose-Kinetics)]
 
 Learning from Synthetic Humans (CVPR 2017) [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Varol_Learning_From_Synthetic_CVPR_2017_paper.pdf)] [[code](https://github.com/gulvarol/surreal)]
@@ -150,11 +138,27 @@ Monocular Total Capture: Posing Face, Body, and Hands in the Wild (CVPR 2019) [[
 
 PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization (CVPR 2020) [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Saito_PIFuHD_Multi-Level_Pixel-Aligned_Implicit_Function_for_High-Resolution_3D_Human_Digitization_CVPR_2020_paper.pdf)] [[code](https://github.com/facebookresearch/pifuhd)]
 
-BLSM: A Bone-Level Skinned Model of the Human Mesh (ECCV 2020) [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500001.pdf)] 
-
 Orientation Keypoints for 6D Human Pose Estimation (arxiv 2020) [[Paper](https://arxiv.org/pdf/2009.04930v1.pdf)] 
 
-3D Human Pose Estimation with Spatial and Temporal Transformers (arxiv 2021) [[Paper](https://arxiv.org/pdf/2103.10455.pdf)] [[code](https://github.com/zczcwh/PoseFormer)]
+[CVPR 2021] Unsupervised Human Pose Estimation through Transforming Shape Templates [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Schmidtke_Unsupervised_Human_Pose_Estimation_Through_Transforming_Shape_Templates_CVPR_2021_paper.pdf)] 
+
+3D Human Pose Estimation with Spatial and Temporal Transformers (ICCV 2021) [[Paper](https://arxiv.org/pdf/2103.10455.pdf)] [[code](https://github.com/zczcwh/PoseFormer)]
+
+Mesh:
+
+Convolutional Mesh Regression for Single-Image Human Shape Reconstruction (CVPR 2019) [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Kolotouros_Convolutional_Mesh_Regression_for_Single-Image_Human_Shape_Reconstruction_CVPR_2019_paper.pdf)] [[code](https://github.com/nkolot/GraphCMR)]
+
+Detailed Human Shape Estimation from a Single Image by Hierarchical Mesh Deformation (CVPR 2019) [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhu_Detailed_Human_Shape_Estimation_From_a_Single_Image_by_Hierarchical_CVPR_2019_paper.pdf)] [[code](https://github.com/zhuhao-nju/hmd)]
+
+Appearance Consensus Driven Self-Supervised Human Mesh Recovery (ECCV 2020) [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460766.pdf)] 
+
+Hierarchical Kinematic Human Mesh Recovery (ECCV 2020) [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620749.pdf)] 
+
+Pose2Mesh: Graph Convolutional Network for 3D Human Pose and Mesh Recovery from a 2D Human Pose (ECCV 2020) [[Paper](https://arxiv.org/pdf/2008.09047v2.pdf)] [[code](https://github.com/hongsukchoi/Pose2Mesh_RELEASE)]
+
+BLSM: A Bone-Level Skinned Model of the Human Mesh (ECCV 2020) [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123500001.pdf)] 
+
+I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image (ECCV 2020) [[Paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123520732.pdf)] [[code](https://github.com/mks0601/I2L-MeshNet_RELEASE)]
 
 
 ### - Single-view multi-person 3D HPE

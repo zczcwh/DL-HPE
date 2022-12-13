@@ -47,6 +47,8 @@ concluded.
 
 ##  [HPE Applications](https://github.com/zczcwh/DL-HPE/tree/main/Applications)
 
+##  [HPE Workshops and challenges](https://github.com/zczcwh/DL-HPE/tree/main/Wrokshops)
+
 ## Citation
 If you find our work useful in your research, please consider citing:
 

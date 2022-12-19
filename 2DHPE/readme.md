@@ -134,7 +134,11 @@ Differentiable hierarchical graph grouping for multi-person poseestimation (arXi
 
 Higherhrnet: Scale-aware representation learning for bottom-up human pose estimation (arXiv) [[paper](https://arxiv.org/pdf/1908.10357.pdf)]
 
-Multi-person pose estimation for posetrack with enhanced part affinity fields (ICCV 2017) [[paper](https://posetrack.net/workshops/iccv2017/pdfs/ML_Lab.pdf)]
+Online Knowledge Distillation for Efficient Pose Estimation (ICCV2021)[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Online_Knowledge_Distillation_for_Efficient_Pose_Estimation_ICCV_2021_paper.pdf)]
+
+TokenPose: Learning Keypoint Tokens for Human Pose Estimation (ICCV2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_TokenPose_Learning_Keypoint_Tokens_for_Human_Pose_Estimation_ICCV_2021_paper.pdf)] [[code](https://github.com/leeyegy/TokenPose)]
+
+Multi-person pose estimation for posetrack with enhanced part affinity fields (ICCV2017) [[paper](https://posetrack.net/workshops/iccv2017/pdfs/ML_Lab.pdf)]
 
 Personlab: Person pose estimation and instance segmentation with a bottom-up, part-based, geometric embeddingmode (ECCV2018) [[paper](https://arxiv.org/pdf/1803.08225.pdf)]
 
@@ -179,3 +183,30 @@ Efficient Human Pose Estimation by Learning Deeply Aggregated Representations (a
 Bottom-Up Human Pose Estimation Via Disentangled Keypoint Regression (CVPR2021)[[paper](https://arxiv.org/pdf/2104.02300.pdf)][[code](https://github.com/HRNet/DEKR)]
 
 Rethinking the Heatmap Regression for Bottom-up Human Pose Estimation (CVPR2021)[[paper](https://arxiv.org/pdf/2012.15175.pdf)][[code](https://github.com/greatlog/SWAHR-HumanPose)]
+
+An Empirical Study of the Collapsing Problem in Semi-Supervised 2D Human Pose Estimation (ICCV2021)[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Xie_An_Empirical_Study_of_the_Collapsing_Problem_in_Semi-Supervised_2D_ICCV_2021_paper.pdf)]
+
+Shape-aware Multi-Person Pose Estimation from Multi-View Images (ICCV2021)[[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Dong_Shape-Aware_Multi-Person_Pose_Estimation_From_Multi-View_Images_ICCV_2021_paper.pdf)] [[code](https://ait.ethz.ch/projects/2021/multi-human-pose/)]
+
+The Center of Attention: Center-Keypoint Grouping via Attention for Multi-Person Pose Estimation (ICCV2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Braso_The_Center_of_Attention_Center-Keypoint_Grouping_via_Attention_for_Multi-Person_ICCV_2021_paper.pdf)][[code](https://github.com/dvl-tum/center-group)]
+
+Multi-Instance Pose Networks: Rethinking Top-Down Pose Estimation (ICCV2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Khirodkar_Multi-Instance_Pose_Networks_Rethinking_Top-Down_Pose_Estimation_ICCV_2021_paper.pdf)][[code](https://rawalkhirodkar.github.io/mipnet/)]
+
+Learning Privacy-preserving Optics for Human Pose Estimation (ICCV2021) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Hinojosa_Learning_Privacy-Preserving_Optics_for_Human_Pose_Estimation_ICCV_2021_paper.pdf)][code](https://carloshinojosa.me/project/privacy-hpe/)]
+
+End-to-End Multi-Person Pose Estimation with Transformers (CVPR2022)[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Shi_End-to-End_Multi-Person_Pose_Estimation_With_Transformers_CVPR_2022_paper.pdf)][[code](https://github.com/hikvision-research/opera)]
+
+Learning Local-Global Contextual Adaptation for Multi-Person Pose Estimation(CVPR2022)[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xue_Learning_Local-Global_Contextual_Adaptation_for_Multi-Person_Pose_Estimation_CVPR_2022_paper.pdf)][[code](https://github.com/cherubicXN/logocap)]
+
+Contextual Instance Decoupling for Robust Multi-Person Pose Estimation(CVPR2022)[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Contextual_Instance_Decoupling_for_Robust_Multi-Person_Pose_Estimation_CVPR_2022_paper.pdf)][[code](https://github.com/kennethwdk/CID)]
+
+Lite Pose: Efficient Architecture Design for 2D Human Pose Estimation(CVPR2022)[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Lite_Pose_Efficient_Architecture_Design_for_2D_Human_Pose_Estimation_CVPR_2022_paper.pdf)][[code](https://github.com/mit-han-lab/litepose)]
+
+Location-Free Human Pose Estimation (CVPR2022)[[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Xu_Location-Free_Human_Pose_Estimation_CVPR_2022_paper.pdf)]
+
+PPT: Token-Pruned Pose Transformer for Monocular and Multi-View Human Pose Estimation (ECCV2022)[[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650416.pdf)] [[code](https://github.com/HowieMa/PPT)]
+
+SimCC: a Simple Coordinate Classification Perspective for Human Pose Estimation (ECCV2022)[[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660088.pdf)] [[code](https://github.com/leeyegy/SimCC)]
+
+Regularizing Vector Embedding in Bottom-Up Human Pose Estimation (ECCV2022)[[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660105.pdf)][[code](https://github.com/CR320/CoupledEmbedding)]
+

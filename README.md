@@ -34,7 +34,7 @@ popular datasets are summarized and discussed. Finally, the challenges involved,
 concluded.
 
 ### Taxonomy
-<p align="center"> <img src="./figure/taxonomy.png" width="105%"> </p>
+<p align="center"> <img src="./figure/Taxonomy.png" width="105%"> </p>
 
 
 ##  [2D HPE paper list](https://github.com/zczcwh/DL-HPE/tree/main/2DHPE)

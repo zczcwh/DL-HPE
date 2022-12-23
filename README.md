@@ -54,7 +54,7 @@ If you find our work useful in your research, please consider citing:
 
      @misc{zheng2020deep,
       title={Deep Learning-Based Human Pose Estimation: A Survey}, 
-      author={Ce Zheng and Wenhan Wu and Taojiannan Yang and Sijie Zhu and Chen Chen and Ruixu Liu and Ju Shen and Nasser Kehtarnavaz and Mubarak Shah},
+      author={Ce Zheng and Wenhan Wu and Taojiannan Yang and Sijie Zhu and Chen Chen and Ju Shen and Nasser Kehtarnavaz and Mubarak Shah},
       year={2020},
       eprint={2012.13392},
       archivePrefix={arXiv},
@@ -62,4 +62,6 @@ If you find our work useful in your research, please consider citing:
      }
 
 ## Updates
-* 27/12/2020: Initial release.
+*  Dec 2022: Add more 2022 papers.
+*  Jan 2022: Add more 2021 papers.
+*  Dec 2020: Initial release.

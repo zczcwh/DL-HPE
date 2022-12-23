@@ -272,6 +272,9 @@
 
 [AAAI 2021] Graph and Temporal Convolutional Networks for 3D Multi-person Pose Estimation in Monocular Videos [[Paper](https://arxiv.org/pdf/2012.11806.pdf)]  
 
+[CVPR 2022] Distribution-Aware Single-Stage Models for Multi-Person 3D Pose Estimation [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Distribution-Aware_Single-Stage_Models_for_Multi-Person_3D_Pose_Estimation_CVPR_2022_paper.pdf)] [[code](https://github.com/wangzt-halo/das)]
+
+[ECCV 2022] Explicit Occlusion Reasoning for Multi-person 3D Human Pose Estimation [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650488.pdf)] [[code](https://github.com/qihao067/HUPOR)]
 
 ### - Multi-view 3D HPE
 
@@ -320,6 +323,16 @@
 [CVPR 2021] Multi-View Multi-Person 3D Pose Estimation with Plane Sweep Stereo [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lin_Multi-View_Multi-Person_3D_Pose_Estimation_With_Plane_Sweep_Stereo_CVPR_2021_paper.pdf)]  
 
 [CVPR 2021] Learning View-Disentangled Human Pose Representation by Contrastive Cross-View Mutual Information Maximization [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Learning_View-Disentangled_Human_Pose_Representation_by_Contrastive_Cross-View_Mutual_Information_CVPR_2021_paper.pdf)]  
+
+[NeurIPS 2021] Direct Multi-view Multi-person 3D Pose Estimation [[Paper](https://proceedings.neurips.cc/paper/2021/file/6da9003b743b65f4c0ccd295cc484e57-Paper.pdf)] [[code](https://github.com/sail-sg/mvp)]
+
+[CVPR 2022] MetaPose: Fast 3D Pose from Multiple Views without 3D Supervision [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Usman_MetaPose_Fast_3D_Pose_From_Multiple_Views_Without_3D_Supervision_CVPR_2022_paper.pdf)] 
+
+[ECCV 2022] Faster VoxelPose: Real-time 3D Human Pose Estimation by Orthographic Projection [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660139.pdf)] [[code](https://github.com/AlvinYH/Faster-VoxelPose)]
+
+[ECCV 2022] PPT: token-Pruned Pose Transformer for monocular and multi-view human pose estimation [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650416.pdf)] [[code](https://github.com/HowieMa/PPT)]
+
+
 
 ## 3D HPE from other sources 
 

@@ -132,7 +132,17 @@
 
 [ICCV 2021] Encoder-decoder with Multi-level Attention for 3D Human Shape and Pose Estimation [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wan_Encoder-Decoder_With_Multi-Level_Attention_for_3D_Human_Shape_and_Pose_ICCV_2021_paper.pdf)]  
 
-3D Human Pose Estimation with Spatial and Temporal Transformers (ICCV 2021) [[Paper](https://arxiv.org/pdf/2103.10455.pdf)] [[code](https://github.com/zczcwh/PoseFormer)]
+[ICCV 2021] 3D Human Pose Estimation with Spatial and Temporal Transformers  [[Paper](https://arxiv.org/pdf/2103.10455.pdf)] [[code](https://github.com/zczcwh/PoseFormer)]
+
+[CVPR 2022] GraFormer: Graph-Oriented Transformer for 3D Pose Estimation  [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_GraFormer_Graph-Oriented_Transformer_for_3D_Pose_Estimation_CVPR_2022_paper.pdf)] [[code](https://github.com/Graformer/GraFormer)]
+
+[CVPR 2022] MixSTE: Seq2seq Mixed Spatio-Temporal Encoder for 3D Human Pose Estimation in Video  [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_MixSTE_Seq2seq_Mixed_Spatio-Temporal_Encoder_for_3D_Human_Pose_Estimation_CVPR_2022_paper.pdf)] [[code](https://github.com/JinluZhang1126/MixSTE)]
+
+[CVPR 2022] PoseTriplet: Co-evolving 3D Human Pose Estimation, Imitation, and Hallucination under Self-supervision  [[Paper](https://arxiv.org/pdf/2203.15625.pdf)] [[code](https://github.com/Garfield-kh/PoseTriplet)]
+
+[ECCV 2022] DH-AUG: DH Forward Kinematics Model Driven Augmentation for 3D Human Pose Estimation  [[Paper](https://arxiv.org/pdf/2207.09303.pdf)] [[code](https://github.com/hlz0606/DH-AUG-DH-Forward-Kinematics-Model-Driven-Augmentation-for-3D-Human-Pose-Estimation)]
+
+[ECCV 2022] https://github.com/paTRICK-swk/P-STMO  [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650453.pdf)] [[code](https://github.com/paTRICK-swk/P-STMO)]
 
 **Mesh:**
 
@@ -218,6 +228,13 @@
 [ICCV 2021] Skeleton2Mesh: Kinematics Prior Injected Unsupervised Human Mesh Recovery [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yu_Skeleton2Mesh_Kinematics_Prior_Injected_Unsupervised_Human_Mesh_Recovery_ICCV_2021_paper.pdf)]
 
 [ICCV 2021] Mesh Graphormer [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Lin_Mesh_Graphormer_ICCV_2021_paper.pdf)]
+
+[CVPR 2022] Human Mesh Recovery from Multiple Shots [[Paper](https://arxiv.org/pdf/2012.09843.pdf)]  [[code](https://geopavlakos.github.io/multishot/)]
+
+[ACM MM 2022] A Lightweight Graph Transformer Network for Human Mesh Reconstruction from 2D Human Pose [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Lin_Mesh_Graphormer_ICCV_2021_paper.pdf)]  [[code](https://github.com/zczcwh/GTRS)]
+
+[ACM MM 2022] DeciWatch: A Simple Baseline for 10× Efficient 2D and 3D Pose Estimation [[Paper](https://arxiv.org/pdf/2203.08713.pdf)]  [[code](https://github.com/cure-lab/DeciWatch)]
+
 
 ### - Single-view multi-person 3D HPE
 

@@ -10,6 +10,7 @@
 - Joint-annotated Human Motion Database (J-HMDB) [[paper]](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Jhuang_Towards_Understanding_Action_2013_ICCV_paper.pdf) [[dataset page]](http://jhmdb.is.tue.mpg.de/)
 - PoseTrack dataset [[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Andriluka_PoseTrack_A_Benchmark_CVPR_2018_paper.pdf) [[dataset page]](https://posetrack.net/)
 - HiEve dataset [[paper](https://arxiv.org/pdf/2005.04490.pdf)][[code](http://humaninevents.org/)]
+- JRDB-Pose [[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Vendrow_JRDB-Pose_A_Large-Scale_Dataset_for_Multi-Person_Pose_Estimation_and_Tracking_CVPR_2023_paper.pdf)]
 
 # 2D HPE results on popular datasets
 ### Comparison of different 2D single-person HPE methods on the LSP dataset using PCP measure (for the individual limbs like torso, head, legs, arms and the whole body) with "Person-Centric" annotations.

@@ -210,13 +210,13 @@ SimCC: a Simple Coordinate Classification Perspective for Human Pose Estimation 
 
 Regularizing Vector Embedding in Bottom-Up Human Pose Estimation (ECCV2022)[[paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136660105.pdf)][[code](https://github.com/CR320/CoupledEmbedding)]
 
-Mutual Information-Based Temporal Difference Learning for Human Pose Estimation in Video (CVPR2023)[[paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://openaccess.thecvf.com/content/CVPR2023/papers/Feng_Mutual_Information-Based_Temporal_Difference_Learning_for_Human_Pose_Estimation_in_CVPR_2023_paper.pdf)]
+Mutual Information-Based Temporal Difference Learning for Human Pose Estimation in Video (CVPR2023)[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Feng_Mutual_Information-Based_Temporal_Difference_Learning_for_Human_Pose_Estimation_in_CVPR_2023_paper.pdf)]
 
-A Characteristic Function-based Method for Bottom-up Human Pose Estimation (CVPR2023)[[paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://openaccess.thecvf.com/content/CVPR2023/papers/Qu_A_Characteristic_Function-Based_Method_for_Bottom-Up_Human_Pose_Estimation_CVPR_2023_paper.pdf)]
+A Characteristic Function-based Method for Bottom-up Human Pose Estimation (CVPR2023)[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Qu_A_Characteristic_Function-Based_Method_for_Bottom-Up_Human_Pose_Estimation_CVPR_2023_paper.pdf)]
 
-Semi-Supervised 2D Human Pose Estimation Driven by Position Inconsistency Pseudo Label Correction Module (CVPR2023)[[paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Semi-Supervised_2D_Human_Pose_Estimation_Driven_by_Position_Inconsistency_Pseudo_CVPR_2023_paper.pdf)]
+Semi-Supervised 2D Human Pose Estimation Driven by Position Inconsistency Pseudo Label Correction Module (CVPR2023)[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Semi-Supervised_2D_Human_Pose_Estimation_Driven_by_Position_Inconsistency_Pseudo_CVPR_2023_paper.pdf)]
 
-Self-Correctable and Adaptable Inference for Generalizable Human Pose Estimation (CVPR2023)[[paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://openaccess.thecvf.com/content/CVPR2023/papers/Kan_Self-Correctable_and_Adaptable_Inference_for_Generalizable_Human_Pose_Estimation_CVPR_2023_paper.pdf)]
+Self-Correctable and Adaptable Inference for Generalizable Human Pose Estimation (CVPR2023)[[paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Kan_Self-Correctable_and_Adaptable_Inference_for_Generalizable_Human_Pose_Estimation_CVPR_2023_paper.pdf)]
 
 
 

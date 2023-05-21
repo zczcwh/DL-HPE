@@ -14,9 +14,11 @@
 [Mubarak Shah](https://www.crcv.ucf.edu/person/mubarak-shah/).
 
 ## News
-Our recent ICCV 2021 paper on 3D Human Pose Estimation using Transformers: [3D Human Pose Estimation with Spatial and Temporal Transformers](https://arxiv.org/pdf/2103.10455.pdf)
-
+Our ICCV 2021 paper on 3D Human Pose Estimation using Transformers (PoseFormer): [3D Human Pose Estimation with Spatial and Temporal Transformers](https://arxiv.org/pdf/2103.10455.pdf)
 [[Code](https://github.com/zczcwh/PoseFormer)]
+
+Our recent CVPR 2021 paper PoseFormerV2: [PoseFormerV2: Exploring Frequency Domain for Efficient and Robust 3D Human Pose Estimation]([https://arxiv.org/pdf/2103.10455.pdf](https://arxiv.org/pdf/2303.17472.pdf))
+[[Code](https://github.com/QitaoZhao/PoseFormerV2)]
 
 ## Overview
 This is the official repository of **Deep Learning-Based Human Pose Estimation:A Survey**, a comprehensive and systematic review of recent deep learning-based solutions for 2D and 3D human pose estimation(HPE). It also presents comparison results of different 2D and 3D HPE methods on several publicly available datasets. Additionally, more than 250 research papers since 2014 are covered and **we will update this page on a regular basis. Please feel free to contact cezheng@knights.ucf.edu or wwu25@uncc.edu if you have any suggestions!**

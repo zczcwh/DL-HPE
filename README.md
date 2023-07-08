@@ -54,7 +54,8 @@ concluded.
 ## Citation
 If you find our work useful in your research, please consider citing:
 
-  @article{zheng2020deep,
+
+@article{zheng2020deep,
      author = {Zheng, Ce and Wu, Wenhan and Chen, Chen and Yang, Taojiannan and Zhu, Sijie and Shen, Ju and Kehtarnavaz, Nasser and Shah, Mubarak},
      title = {Deep Learning-Based Human Pose Estimation: A Survey},
      year = {2023},
@@ -66,6 +67,7 @@ If you find our work useful in your research, please consider citing:
      journal = {ACM Comput. Surv.},
     month = {jun},
   }
+    
 
 ## Updates
 *  June 2023, Accepted to ACM Computing Surveys.

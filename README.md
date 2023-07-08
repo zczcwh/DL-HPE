@@ -54,16 +54,21 @@ concluded.
 ## Citation
 If you find our work useful in your research, please consider citing:
 
-     @misc{zheng2020deep,
-      title={Deep Learning-Based Human Pose Estimation: A Survey}, 
-      author={Ce Zheng and Wenhan Wu and Taojiannan Yang and Sijie Zhu and Chen Chen and Ju Shen and Nasser Kehtarnavaz and Mubarak Shah},
-      year={2020},
-      eprint={2012.13392},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-     }
+@article{zheng2020deep,
+author = {Zheng, Ce and Wu, Wenhan and Chen, Chen and Yang, Taojiannan and Zhu, Sijie and Shen, Ju and Kehtarnavaz, Nasser and Shah, Mubarak},
+title = {Deep Learning-Based Human Pose Estimation: A Survey},
+year = {2023},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+issn = {0360-0300},
+url = {https://doi.org/10.1145/3603618},
+doi = {10.1145/3603618},
+journal = {ACM Comput. Surv.},
+month = {jun},
+}
 
 ## Updates
+*  June 2023, Accepted to ACM Computing Surveys.
 *  Dec 2022: Add more 2022 papers.
 *  Jan 2022: Add more 2021 papers.
 *  Dec 2020: Initial release.
